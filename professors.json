@@ -1,0 +1,8002 @@
+[
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.3,
+    "department": "Philosophy",
+    "name": "Dan Lowe",
+    "num_ratings": 32,
+    "would_take_again_percent": 78.125
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 3.5,
+    "department": "Electrical Engineering & Computer Science",
+    "name": "Leland Pierce",
+    "num_ratings": 24,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.1,
+    "department": "Art History",
+    "name": "Paroma Chatterjee",
+    "num_ratings": 10,
+    "would_take_again_percent": 85.7143
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 2.9,
+    "department": "Public Health",
+    "name": "Emily Youatt",
+    "num_ratings": 52,
+    "would_take_again_percent": 44.2308
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 3.2,
+    "department": "Architecture",
+    "name": "Dawn Gilpin",
+    "num_ratings": 42,
+    "would_take_again_percent": 42.8571
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.7,
+    "department": "Mathematics",
+    "name": "Paul Kessenich",
+    "num_ratings": 37,
+    "would_take_again_percent": 95
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.8,
+    "department": "Political Science",
+    "name": "Jowei Chen",
+    "num_ratings": 34,
+    "would_take_again_percent": 89.4737
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 3.1,
+    "department": "Aerospace Studies",
+    "name": "Nakhiah Goulbourne",
+    "num_ratings": 15,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.2,
+    "department": "Sociology",
+    "name": "Terence James McGinn",
+    "num_ratings": 190,
+    "would_take_again_percent": 81.8182
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.7,
+    "department": "Psychology",
+    "name": "Edward Chang",
+    "num_ratings": 170,
+    "would_take_again_percent": 54.9296
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 2.5,
+    "department": "Psychology",
+    "name": "John Snodgrass",
+    "num_ratings": 100,
+    "would_take_again_percent": 32.6316
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 3.6,
+    "department": "Chemistry",
+    "name": "Nicole Tuttle",
+    "num_ratings": 82,
+    "would_take_again_percent": 63.4146
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 2.9,
+    "department": "Political Science",
+    "name": "Lynn Rivers",
+    "num_ratings": 73,
+    "would_take_again_percent": 26.087
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 4.6,
+    "department": "Chemistry",
+    "name": "Matthew Soellner",
+    "num_ratings": 34,
+    "would_take_again_percent": 91.1765
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 2.4,
+    "department": "Physics",
+    "name": "Roberto Merlin",
+    "num_ratings": 33,
+    "would_take_again_percent": 25
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.8,
+    "department": "Philosophy",
+    "name": "Emily Peterson",
+    "num_ratings": 28,
+    "would_take_again_percent": 96
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4.9,
+    "department": "English",
+    "name": "Adelay Witherite",
+    "num_ratings": 23,
+    "would_take_again_percent": 95.6522
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 5,
+    "department": "Computer Science",
+    "name": "Saquib Razak",
+    "num_ratings": 16,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.1,
+    "department": "Microbiology",
+    "name": "Gary Huffnagle",
+    "num_ratings": 16,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 3.5,
+    "department": "Japanese",
+    "name": "Yamato Kitahashi",
+    "num_ratings": 10,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4,
+    "department": "Political Science",
+    "name": "Andrew Murphy",
+    "num_ratings": 7,
+    "would_take_again_percent": 71.4286
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.8,
+    "department": "Computer Science",
+    "name": "Steven Bogaerts",
+    "num_ratings": 6,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.8,
+    "department": "Anthropology",
+    "name": "Julio Villa-Palomino",
+    "num_ratings": 4,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 1,
+    "department": "Computer Science",
+    "name": "Stella Yu",
+    "num_ratings": 2,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 3.8,
+    "department": "Business Administration",
+    "name": "Vijay Pandiarajan",
+    "num_ratings": 27,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 4.9,
+    "department": "Business",
+    "name": "Lori Rogala",
+    "num_ratings": 20,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 3.5,
+    "department": "History",
+    "name": "Scott Spector",
+    "num_ratings": 13,
+    "would_take_again_percent": 71.4286
+  },
+  {
+    "avg_difficulty": 4.8,
+    "avg_rating": 1.5,
+    "department": "Mathematics",
+    "name": "Melih Iseri",
+    "num_ratings": 4,
+    "would_take_again_percent": 25
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3.7,
+    "department": "Engineering",
+    "name": "Steve Young",
+    "num_ratings": 3,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 5,
+    "avg_rating": 2,
+    "department": "Finance",
+    "name": "Edward Kim",
+    "num_ratings": 1,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 3.9,
+    "department": "Philosophy",
+    "name": "James Tappenden",
+    "num_ratings": 45,
+    "would_take_again_percent": 88
+  },
+  {
+    "avg_difficulty": 1.5,
+    "avg_rating": 5,
+    "department": "English",
+    "name": "Thomas  Walker",
+    "num_ratings": 19,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.2,
+    "department": "Psychology",
+    "name": "Craig Rodriguez-Seijas",
+    "num_ratings": 14,
+    "would_take_again_percent": 85.7143
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 2.6,
+    "department": "Mathematics",
+    "name": "Viktor  Burghardt",
+    "num_ratings": 8,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 4.3,
+    "avg_rating": 4,
+    "department": "Mathematics",
+    "name": "Evangelos Dimou",
+    "num_ratings": 6,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 2.5,
+    "department": "Biostatistics",
+    "name": "Yang Chen",
+    "num_ratings": 4,
+    "would_take_again_percent": 25
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4.4,
+    "department": "Economics",
+    "name": "Ronald Caldwell",
+    "num_ratings": 241,
+    "would_take_again_percent": 83.7209
+  },
+  {
+    "avg_difficulty": 4.6,
+    "avg_rating": 1.7,
+    "department": "Biology",
+    "name": "Eleanor Clowney",
+    "num_ratings": 53,
+    "would_take_again_percent": 13.2075
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4,
+    "department": "Naval Science",
+    "name": "Laura Alford",
+    "num_ratings": 49,
+    "would_take_again_percent": 78.9474
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 3.1,
+    "department": "Italian",
+    "name": "Alison Cornish",
+    "num_ratings": 45,
+    "would_take_again_percent": 43.75
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 5,
+    "department": "Physics",
+    "name": "Daniel Weller",
+    "num_ratings": 23,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 3,
+    "department": "Environmental Science",
+    "name": "Rolf Bouma",
+    "num_ratings": 21,
+    "would_take_again_percent": 41.1765
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 3.5,
+    "department": "Physics",
+    "name": "Christine Aidala",
+    "num_ratings": 17,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 1.8,
+    "avg_rating": 4.1,
+    "department": "Kinesiology",
+    "name": "Doo Jae Park",
+    "num_ratings": 11,
+    "would_take_again_percent": 81.8182
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 4.6,
+    "department": "French",
+    "name": "Stacey Ayotte",
+    "num_ratings": 11,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.6,
+    "department": "English Language & Literature",
+    "name": "Meg Garver",
+    "num_ratings": 8,
+    "would_take_again_percent": 87.5
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 3.5,
+    "department": "Accounting",
+    "name": "Christopher Williams",
+    "num_ratings": 4,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Electrical Engineering",
+    "name": "Aline Eid",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 3.1,
+    "department": "Statistics",
+    "name": "Alicia Romero",
+    "num_ratings": 135,
+    "would_take_again_percent": 46.6165
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 1.9,
+    "department": "Economics",
+    "name": "Javier Cravino",
+    "num_ratings": 66,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 3.7,
+    "department": "Biology",
+    "name": "Carly Nowicki",
+    "num_ratings": 57,
+    "would_take_again_percent": 77.193
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 4.7,
+    "department": "Computer Science",
+    "name": "Nicole Hamilton",
+    "num_ratings": 30,
+    "would_take_again_percent": 86.6667
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.1,
+    "department": "English",
+    "name": "Joshua Wall",
+    "num_ratings": 26,
+    "would_take_again_percent": 76.9231
+  },
+  {
+    "avg_difficulty": 4.4,
+    "avg_rating": 1.5,
+    "department": "Statistics",
+    "name": "Naisyin Wang",
+    "num_ratings": 21,
+    "would_take_again_percent": 9.5238
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 3.3,
+    "department": "Political Science",
+    "name": "Ji Hong",
+    "num_ratings": 11,
+    "would_take_again_percent": 45.4545
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 5,
+    "department": "English",
+    "name": "Hannah Ensor",
+    "num_ratings": 10,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 5,
+    "department": "Mathematics",
+    "name": "Robert Cochrane",
+    "num_ratings": 8,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.7,
+    "department": "Political Science",
+    "name": "Murad Idris",
+    "num_ratings": 6,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 2.2,
+    "department": "Economics",
+    "name": "Maciej Dudek",
+    "num_ratings": 136,
+    "would_take_again_percent": 30.1471
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.2,
+    "department": "Near Eastern Studies",
+    "name": "Yaron Eliav",
+    "num_ratings": 106,
+    "would_take_again_percent": 85
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 4.3,
+    "department": "Psychology",
+    "name": "Jennifer Cummings",
+    "num_ratings": 100,
+    "would_take_again_percent": 82.8947
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 4.7,
+    "department": "Computer Science",
+    "name": "David Paoletti",
+    "num_ratings": 93,
+    "would_take_again_percent": 96.4912
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3.2,
+    "department": "History",
+    "name": "Kali Israel",
+    "num_ratings": 58,
+    "would_take_again_percent": 34.7826
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.8,
+    "department": "Statistics",
+    "name": "John Keane",
+    "num_ratings": 51,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.9,
+    "department": "German",
+    "name": "Hartmut Rastalsky",
+    "num_ratings": 43,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 3.7,
+    "department": "Biology",
+    "name": "Elizabeth Tibbetts",
+    "num_ratings": 42,
+    "would_take_again_percent": 76.9231
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 4.7,
+    "department": "Economics",
+    "name": "Esteban Peralta",
+    "num_ratings": 33,
+    "would_take_again_percent": 90.9091
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 3.9,
+    "department": "Business",
+    "name": "Hila Etzion",
+    "num_ratings": 26,
+    "would_take_again_percent": 76.1905
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 4.4,
+    "department": "Mathematics",
+    "name": "Michael Weiss",
+    "num_ratings": 25,
+    "would_take_again_percent": 92
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.1,
+    "department": "Mathematics",
+    "name": "Amir Vig",
+    "num_ratings": 25,
+    "would_take_again_percent": 48
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4,
+    "department": "Urban Planning",
+    "name": "Philip D'Anieri",
+    "num_ratings": 20,
+    "would_take_again_percent": 53.8462
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.5,
+    "department": "Sociology",
+    "name": "Pablo Gaston",
+    "num_ratings": 20,
+    "would_take_again_percent": 95
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 2.5,
+    "department": "Chemistry",
+    "name": "Kristin Smith-Koutmou",
+    "num_ratings": 19,
+    "would_take_again_percent": 43.75
+  },
+  {
+    "avg_difficulty": 1.7,
+    "avg_rating": 4.6,
+    "department": "Astronomy",
+    "name": "Brian Devour",
+    "num_ratings": 12,
+    "would_take_again_percent": 88.8889
+  },
+  {
+    "avg_difficulty": 1.3,
+    "avg_rating": 4.3,
+    "department": "Linguistics",
+    "name": "Savithry Namboodiripad",
+    "num_ratings": 12,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4,
+    "department": "Spanish",
+    "name": "Nina O'Connor",
+    "num_ratings": 10,
+    "would_take_again_percent": 70
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 3.3,
+    "department": "Political Science",
+    "name": "Brian Min",
+    "num_ratings": 8,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4,
+    "department": "Film",
+    "name": "Swapnil Rai",
+    "num_ratings": 7,
+    "would_take_again_percent": 71.4286
+  },
+  {
+    "avg_difficulty": 1.6,
+    "avg_rating": 4.4,
+    "department": "Sociology",
+    "name": "Salam Aboulhassan",
+    "num_ratings": 7,
+    "would_take_again_percent": 71.4286
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 3.7,
+    "department": "Economics",
+    "name": "Nicholas Montgomery",
+    "num_ratings": 6,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.8,
+    "department": "Business",
+    "name": "Timothy Webb",
+    "num_ratings": 5,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4.5,
+    "department": "Judaic Studies",
+    "name": "Mostafa Hussein",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 5,
+    "department": "History",
+    "name": "Eric Toups",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 4.7,
+    "department": "Spanish",
+    "name": "Elizabeth Houbeck",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 3.6,
+    "department": "Economics",
+    "name": "Adam Stevenson",
+    "num_ratings": 210,
+    "would_take_again_percent": 64.9485
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 4,
+    "department": "Physics",
+    "name": "Yuri Popov",
+    "num_ratings": 196,
+    "would_take_again_percent": 70.1754
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.3,
+    "department": "Spanish",
+    "name": "Tatiana Calixto",
+    "num_ratings": 70,
+    "would_take_again_percent": 95.2381
+  },
+  {
+    "avg_difficulty": 1.8,
+    "avg_rating": 5,
+    "department": "Anthropology",
+    "name": "Benjamin Hollenbach",
+    "num_ratings": 69,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.8,
+    "department": "Philosophy",
+    "name": "Anna Edmonds",
+    "num_ratings": 55,
+    "would_take_again_percent": 93.75
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 2.6,
+    "department": "Psychology",
+    "name": "Joshua Rabinowitz",
+    "num_ratings": 46,
+    "would_take_again_percent": 32.3529
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.4,
+    "department": "Environment",
+    "name": "John Benedict",
+    "num_ratings": 41,
+    "would_take_again_percent": 85.3659
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 3.8,
+    "department": "Physics",
+    "name": "Myron Campbell",
+    "num_ratings": 37,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 3.8,
+    "department": "Information Science",
+    "name": "Colleen Van Lent",
+    "num_ratings": 30,
+    "would_take_again_percent": 68.9655
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3.2,
+    "department": "Biology",
+    "name": "Yin-Long Qiu",
+    "num_ratings": 30,
+    "would_take_again_percent": 81.25
+  },
+  {
+    "avg_difficulty": 1.6,
+    "avg_rating": 4.9,
+    "department": "English",
+    "name": "Joseph Harms",
+    "num_ratings": 29,
+    "would_take_again_percent": 96.5517
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 3.8,
+    "department": "Psychology",
+    "name": "David Dunning",
+    "num_ratings": 15,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.8,
+    "department": "Information Science",
+    "name": "Steve Oney",
+    "num_ratings": 13,
+    "would_take_again_percent": 92.3077
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 4.2,
+    "department": "Information Science",
+    "name": "Natalie Fang",
+    "num_ratings": 12,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 3.7,
+    "department": "English",
+    "name": "Laura Clapper",
+    "num_ratings": 3,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 3,
+    "department": "Computer Science",
+    "name": "Lesa Begley",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.8,
+    "department": "Chemistry",
+    "name": "Kathleen Nolta",
+    "num_ratings": 532,
+    "would_take_again_percent": 90.2299
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.8,
+    "department": "Psychology",
+    "name": "Shelly Schreier",
+    "num_ratings": 374,
+    "would_take_again_percent": 97.2603
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 2.5,
+    "department": "Biology",
+    "name": "Marcus Ammerlaan",
+    "num_ratings": 261,
+    "would_take_again_percent": 27.9661
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 4.4,
+    "department": "Computer Engineering",
+    "name": "Mark Brehob",
+    "num_ratings": 95,
+    "would_take_again_percent": 83.7209
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4.5,
+    "department": "Psychology",
+    "name": "Kent Berridge",
+    "num_ratings": 79,
+    "would_take_again_percent": 85.1852
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 2,
+    "department": "Political Science",
+    "name": "Barbara Koremenos",
+    "num_ratings": 64,
+    "would_take_again_percent": 11.3636
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 3.5,
+    "department": "Electrical Engineering",
+    "name": "Brian Noble",
+    "num_ratings": 63,
+    "would_take_again_percent": 45.4545
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 4.7,
+    "department": "Electrical Engineering",
+    "name": "Peter Chen",
+    "num_ratings": 60,
+    "would_take_again_percent": 95.4545
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 4,
+    "department": "Philosophy",
+    "name": "Elizabeth Anderson",
+    "num_ratings": 46,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 4.3,
+    "avg_rating": 2.9,
+    "department": "Russian",
+    "name": "Alina Makin",
+    "num_ratings": 37,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 3.8,
+    "department": "Physics",
+    "name": "Andrea Chaney",
+    "num_ratings": 34,
+    "would_take_again_percent": 76.4706
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 3.1,
+    "department": "Computer Engineering",
+    "name": "Seth Pettie",
+    "num_ratings": 34,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 3.9,
+    "department": "Spanish",
+    "name": "Maria Arrate Telleria-Suinaga",
+    "num_ratings": 27,
+    "would_take_again_percent": 71.4286
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 3.4,
+    "department": "Chemistry",
+    "name": "Allison Lamanna",
+    "num_ratings": 27,
+    "would_take_again_percent": 69.2308
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 3.9,
+    "department": "Electrical Engineering",
+    "name": "Stephane Lafortune",
+    "num_ratings": 25,
+    "would_take_again_percent": 72.7273
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 4.7,
+    "department": "Mathematics",
+    "name": "Scott Schneider",
+    "num_ratings": 24,
+    "would_take_again_percent": 95.2381
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 2.2,
+    "department": "Economics",
+    "name": "Zach Brown",
+    "num_ratings": 22,
+    "would_take_again_percent": 36.3636
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3,
+    "department": "Chemistry",
+    "name": "Rebecca Fantone",
+    "num_ratings": 20,
+    "would_take_again_percent": 45
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 3.2,
+    "department": "Psychology",
+    "name": "Jun Zhang",
+    "num_ratings": 17,
+    "would_take_again_percent": 55.5556
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 2.6,
+    "department": "Art",
+    "name": "Endi Poskovic",
+    "num_ratings": 16,
+    "would_take_again_percent": 23.0769
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 1.4,
+    "department": "Aerospace Studies",
+    "name": "Henry Sodano",
+    "num_ratings": 16,
+    "would_take_again_percent": 6.6667
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 2.8,
+    "department": "Art",
+    "name": "Cynthia Pachickara",
+    "num_ratings": 15,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 4.4,
+    "department": "Environment",
+    "name": "Jason Duvall",
+    "num_ratings": 14,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 5,
+    "department": "Italian",
+    "name": "Luisa Garrido-Baez",
+    "num_ratings": 13,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 2.8,
+    "department": "Judaic Studies",
+    "name": "Shachar Pinsker",
+    "num_ratings": 11,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 1.1,
+    "department": "Engineering",
+    "name": "Annah  Macha",
+    "num_ratings": 11,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 1.6,
+    "avg_rating": 5,
+    "department": "Music",
+    "name": "Matthew Thompson",
+    "num_ratings": 9,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.2,
+    "avg_rating": 3.3,
+    "department": "Mathematics",
+    "name": "Chuhao Sun",
+    "num_ratings": 6,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 1.2,
+    "avg_rating": 4.4,
+    "department": "Art",
+    "name": "Catherine VanVoorhis",
+    "num_ratings": 5,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 5,
+    "department": "Social Work",
+    "name": "Ashley Lacombe-Duncan",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 1,
+    "department": "Social Work",
+    "name": "Kallie England",
+    "num_ratings": 1,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.3,
+    "department": "Psychology",
+    "name": "Brian Malley",
+    "num_ratings": 365,
+    "would_take_again_percent": 59.3023
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 2.9,
+    "department": "Biology",
+    "name": "Josephine Kurdziel",
+    "num_ratings": 239,
+    "would_take_again_percent": 33.1034
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 2.1,
+    "department": "Biology",
+    "name": "Jill Haenfler",
+    "num_ratings": 131,
+    "would_take_again_percent": 22.6891
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 3.7,
+    "department": "Spanish",
+    "name": "Isabel Larrotiz",
+    "num_ratings": 57,
+    "would_take_again_percent": 68.9655
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4.7,
+    "department": "Ecology & Evolutionary Biology",
+    "name": "Lynn Carpenter",
+    "num_ratings": 54,
+    "would_take_again_percent": 94.7368
+  },
+  {
+    "avg_difficulty": 4.1,
+    "avg_rating": 3,
+    "department": "Biology",
+    "name": "David Akey",
+    "num_ratings": 54,
+    "would_take_again_percent": 44.4444
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 2.6,
+    "department": "English",
+    "name": "Kelly Allen",
+    "num_ratings": 46,
+    "would_take_again_percent": 38.8889
+  },
+  {
+    "avg_difficulty": 1.7,
+    "avg_rating": 4.7,
+    "department": "Industrial Engineering",
+    "name": "Luis Garcia-Guzman",
+    "num_ratings": 38,
+    "would_take_again_percent": 93.3333
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.2,
+    "department": "Political Science",
+    "name": "Matthew McManus",
+    "num_ratings": 34,
+    "would_take_again_percent": 79.4118
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 4.9,
+    "department": "MolecularCellularDev Biology",
+    "name": "Jayakrishnan Nandakumar",
+    "num_ratings": 33,
+    "would_take_again_percent": 95.4545
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 3.6,
+    "department": "Psychology",
+    "name": "Jacinta Beehner",
+    "num_ratings": 28,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4.6,
+    "department": "Chinese",
+    "name": "Jinyi Li",
+    "num_ratings": 21,
+    "would_take_again_percent": 81.8182
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 4.1,
+    "department": "Arabic",
+    "name": "Liana Reading",
+    "num_ratings": 18,
+    "would_take_again_percent": 44.4444
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 3.6,
+    "department": "Engineering",
+    "name": "Eunshin Byon",
+    "num_ratings": 18,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.1,
+    "department": "Psychology",
+    "name": "Felix Warneken",
+    "num_ratings": 17,
+    "would_take_again_percent": 88.2353
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3.9,
+    "department": "Industrial Engineering",
+    "name": "Mariel Lavieri",
+    "num_ratings": 15,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 1.5,
+    "avg_rating": 4.6,
+    "department": "Near Eastern Studies",
+    "name": "Behrad Aghaei",
+    "num_ratings": 12,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 5,
+    "department": "Spanish",
+    "name": "Mar Sotelo-Padrón",
+    "num_ratings": 10,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 1.6,
+    "department": "Anthropology",
+    "name": "Alicia Ventresca-Miller",
+    "num_ratings": 9,
+    "would_take_again_percent": 11.1111
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 5,
+    "department": "Women's Studies",
+    "name": "Catherine Fairfield",
+    "num_ratings": 7,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 2.4,
+    "department": "Electrical Engineering",
+    "name": "Noel Giebink",
+    "num_ratings": 5,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.8,
+    "department": "Nursing",
+    "name": "Diane Accurso",
+    "num_ratings": 4,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.8,
+    "department": "Electrical Engineering & Computer Science",
+    "name": "Maha Ali",
+    "num_ratings": 4,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4,
+    "department": "Philosophy",
+    "name": "Renée Jorgensen",
+    "num_ratings": 4,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 4.7,
+    "department": "Comparative Literature",
+    "name": "Arianna Afsari",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4,
+    "department": "Information Science",
+    "name": "Bobby Madamanchi",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 3,
+    "department": "English",
+    "name": "Kendon Smith",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4.6,
+    "department": "Economics",
+    "name": "Edward Cho",
+    "num_ratings": 161,
+    "would_take_again_percent": 91.2698
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4.9,
+    "department": "Biology",
+    "name": "Laury Wood",
+    "num_ratings": 83,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 4.6,
+    "department": "Psychology",
+    "name": "Richard Lewis",
+    "num_ratings": 61,
+    "would_take_again_percent": 96.2963
+  },
+  {
+    "avg_difficulty": 1.7,
+    "avg_rating": 4.8,
+    "department": "Classics",
+    "name": "Carrie Wood",
+    "num_ratings": 55,
+    "would_take_again_percent": 96.1538
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 3.7,
+    "department": "Anthropology",
+    "name": "Leigh Stuckey",
+    "num_ratings": 47,
+    "would_take_again_percent": 63.8298
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.5,
+    "department": "History",
+    "name": "Par Cassel",
+    "num_ratings": 45,
+    "would_take_again_percent": 36.8421
+  },
+  {
+    "avg_difficulty": 1.6,
+    "avg_rating": 4.4,
+    "department": "Aerospace Studies",
+    "name": "Michael LoPresto",
+    "num_ratings": 37,
+    "would_take_again_percent": 83.7838
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4.8,
+    "department": "Computer Science",
+    "name": "Kimberly Diaz",
+    "num_ratings": 17,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 2.6,
+    "department": "Industrial Engineering",
+    "name": "Jionghua Jin",
+    "num_ratings": 16,
+    "would_take_again_percent": 28.5714
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.2,
+    "department": "History",
+    "name": "Kira Thurman",
+    "num_ratings": 15,
+    "would_take_again_percent": 86.6667
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.1,
+    "department": "Not Specified",
+    "name": "Jeroen Ritsema",
+    "num_ratings": 11,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 3.9,
+    "department": "University Courses",
+    "name": "Korede  Ajogbeje",
+    "num_ratings": 11,
+    "would_take_again_percent": 63.6364
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 5,
+    "department": "Industrial Engineering",
+    "name": "Pat Hammett",
+    "num_ratings": 11,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.3,
+    "department": "Film",
+    "name": "Yeidy Rivero",
+    "num_ratings": 10,
+    "would_take_again_percent": 85.7143
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 2.9,
+    "department": "Art",
+    "name": "Seder Burns",
+    "num_ratings": 9,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 1.9,
+    "avg_rating": 3.9,
+    "department": "Psychology",
+    "name": "Audrey Michal",
+    "num_ratings": 8,
+    "would_take_again_percent": 87.5
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 2.6,
+    "department": "Industrial Engineering",
+    "name": "Seth Guikema",
+    "num_ratings": 7,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.6,
+    "department": "University Courses",
+    "name": "Lydia Fettig",
+    "num_ratings": 5,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 3.8,
+    "department": "English",
+    "name": "Laura Strout",
+    "num_ratings": 5,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 4.8,
+    "avg_rating": 1,
+    "department": "Aerospace Studies",
+    "name": "Yunseok Choi",
+    "num_ratings": 5,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 1.3,
+    "avg_rating": 5,
+    "department": "Sociology",
+    "name": "Jonah Brundage",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.5,
+    "department": "Music",
+    "name": "Rose Mannino",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 5,
+    "department": "Earth Science",
+    "name": "Lawrence Cathles",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4,
+    "department": "Statistics",
+    "name": "Katherine Brumberg ",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 2.3,
+    "department": "Economics",
+    "name": "Chris Proulx",
+    "num_ratings": 255,
+    "would_take_again_percent": 31.1377
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 3.1,
+    "department": "Biology",
+    "name": "Steven Clark",
+    "num_ratings": 128,
+    "would_take_again_percent": 68.8525
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.5,
+    "department": "Electrical Engineering & Computer Science",
+    "name": "William (Bill) Arthur",
+    "num_ratings": 87,
+    "would_take_again_percent": 87.9518
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 3.9,
+    "department": "Physiology",
+    "name": "Elizabeth Rust",
+    "num_ratings": 85,
+    "would_take_again_percent": 72.093
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 3.6,
+    "department": "Philosophy",
+    "name": "David Manley",
+    "num_ratings": 42,
+    "would_take_again_percent": 51.5152
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3.3,
+    "department": "Natural Resources",
+    "name": "Raymond Deyoung",
+    "num_ratings": 41,
+    "would_take_again_percent": 56.25
+  },
+  {
+    "avg_difficulty": 4.5,
+    "avg_rating": 2.4,
+    "department": "Nursing",
+    "name": "Laura prochnow",
+    "num_ratings": 39,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 4.2,
+    "avg_rating": 3.5,
+    "department": "Nursing",
+    "name": "Susanna Petrosyan",
+    "num_ratings": 37,
+    "would_take_again_percent": 59.4595
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 1.8,
+    "department": "Information Science",
+    "name": "Corey Powell",
+    "num_ratings": 36,
+    "would_take_again_percent": 8.3333
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3,
+    "department": "Electrical Engineering & Computer Science",
+    "name": "Ben Torralva",
+    "num_ratings": 30,
+    "would_take_again_percent": 56.6667
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.7,
+    "department": "Psychology",
+    "name": "Taraz Lee",
+    "num_ratings": 27,
+    "would_take_again_percent": 96.1538
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 3.6,
+    "department": "Residential College",
+    "name": "Cristhian Espinoza-Pino",
+    "num_ratings": 25,
+    "would_take_again_percent": 72.7273
+  },
+  {
+    "avg_difficulty": 4.5,
+    "avg_rating": 1,
+    "department": "Foreign Languages",
+    "name": "Thuy-Anh Nguyen",
+    "num_ratings": 20,
+    "would_take_again_percent": 5.2632
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.1,
+    "department": "Electrical Engineering & Computer Science",
+    "name": "Alanson Sample",
+    "num_ratings": 16,
+    "would_take_again_percent": 81.25
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 4,
+    "department": "Art",
+    "name": "John Marshall",
+    "num_ratings": 12,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 3.7,
+    "department": "Mechanical Engineering",
+    "name": "Vikram Gavini",
+    "num_ratings": 11,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4.8,
+    "department": "Electrical Engineering",
+    "name": "Zhengya Zhang",
+    "num_ratings": 10,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.4,
+    "department": "Creative Writing",
+    "name": "Chris Matthews",
+    "num_ratings": 10,
+    "would_take_again_percent": 90
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 3.6,
+    "department": "Electrical Engineering",
+    "name": "Hun Seok Kim",
+    "num_ratings": 9,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 4.5,
+    "department": "Sociology",
+    "name": "Roi Livne",
+    "num_ratings": 8,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.1,
+    "department": "Psychology",
+    "name": "David Brang",
+    "num_ratings": 7,
+    "would_take_again_percent": 71.4286
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.7,
+    "department": "Art",
+    "name": "Annica Cuppetelli",
+    "num_ratings": 7,
+    "would_take_again_percent": 85.7143
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.1,
+    "department": "Mathematics",
+    "name": "Nina White",
+    "num_ratings": 6,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.2,
+    "avg_rating": 2.8,
+    "department": "Mathematics",
+    "name": "Tian Jing",
+    "num_ratings": 5,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 1.5,
+    "avg_rating": 5,
+    "department": "English",
+    "name": "Megan Bardolph",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.8,
+    "department": "Writing",
+    "name": "Allie Hirsch",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 5,
+    "department": "Materials Engineering",
+    "name": "Timothy Chambers",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1.5,
+    "avg_rating": 5,
+    "department": "Geography",
+    "name": "Michael Hawkins",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 2,
+    "department": "Film",
+    "name": "Rebecca Uliasz",
+    "num_ratings": 2,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 4.1,
+    "avg_rating": 3.5,
+    "department": "Chemistry",
+    "name": "Amy Gottfried",
+    "num_ratings": 218,
+    "would_take_again_percent": 70.6667
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.2,
+    "department": "Chemistry",
+    "name": "Alex Poniatowski",
+    "num_ratings": 129,
+    "would_take_again_percent": 77.1739
+  },
+  {
+    "avg_difficulty": 4.1,
+    "avg_rating": 3,
+    "department": "History",
+    "name": "Jonathan Marwil",
+    "num_ratings": 120,
+    "would_take_again_percent": 39.2857
+  },
+  {
+    "avg_difficulty": 1.5,
+    "avg_rating": 4,
+    "department": "Psychology",
+    "name": "Eric Fretz",
+    "num_ratings": 61,
+    "would_take_again_percent": 64.2857
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 2.5,
+    "department": "Fine Arts",
+    "name": "Rebecca Zurier",
+    "num_ratings": 40,
+    "would_take_again_percent": 31.5789
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.1,
+    "department": "Spanish",
+    "name": "Catherine Brown",
+    "num_ratings": 39,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 4.7,
+    "department": "Residential College",
+    "name": "Maria Rodriguez",
+    "num_ratings": 38,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 3,
+    "department": "Statistics",
+    "name": "Mark Fredrickson",
+    "num_ratings": 35,
+    "would_take_again_percent": 45.7143
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 3.1,
+    "department": "Biology",
+    "name": "Andrzej Wierzbicki",
+    "num_ratings": 33,
+    "would_take_again_percent": 45
+  },
+  {
+    "avg_difficulty": 4.1,
+    "avg_rating": 2.8,
+    "department": "Electrical  Comp. Engineering",
+    "name": "Ehsan Afshari",
+    "num_ratings": 30,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 3,
+    "department": "Economics",
+    "name": "Jeffrey Ward",
+    "num_ratings": 30,
+    "would_take_again_percent": 43.3333
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 3.6,
+    "department": "Economics",
+    "name": "Oleg Zamulin",
+    "num_ratings": 30,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 3.9,
+    "department": "Business Administration",
+    "name": "Follett Carter",
+    "num_ratings": 23,
+    "would_take_again_percent": 63.6364
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.7,
+    "department": "Chemistry",
+    "name": "David BARTLEY",
+    "num_ratings": 23,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.4,
+    "avg_rating": 4.7,
+    "department": "Computer Science",
+    "name": "Manos Kapritsos",
+    "num_ratings": 16,
+    "would_take_again_percent": 93.75
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.8,
+    "department": "Spanish",
+    "name": "Laura Gess",
+    "num_ratings": 13,
+    "would_take_again_percent": 92.3077
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 5,
+    "department": "Spanish",
+    "name": "Consuelo Digon Arroba",
+    "num_ratings": 12,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 2.5,
+    "department": "Chemistry",
+    "name": "Sarah Keane",
+    "num_ratings": 11,
+    "would_take_again_percent": 36.3636
+  },
+  {
+    "avg_difficulty": 1.6,
+    "avg_rating": 4.6,
+    "department": "Nursing",
+    "name": "Nadia Charania",
+    "num_ratings": 11,
+    "would_take_again_percent": 72.7273
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.8,
+    "department": "Spanish",
+    "name": "Natalie Nagl",
+    "num_ratings": 10,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.3,
+    "avg_rating": 1.4,
+    "department": "Statistics",
+    "name": "Edward Ionides",
+    "num_ratings": 9,
+    "would_take_again_percent": 11.1111
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 5,
+    "department": "English",
+    "name": "Lauren Gwin",
+    "num_ratings": 7,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1.7,
+    "avg_rating": 4.3,
+    "department": "English",
+    "name": "Michael Zhai",
+    "num_ratings": 6,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.4,
+    "department": "Residential College",
+    "name": "Jennifer Goltz-Taylor",
+    "num_ratings": 5,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.8,
+    "department": "Residential College",
+    "name": "Darcy Brandel",
+    "num_ratings": 5,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 2.8,
+    "department": "Epidemiology",
+    "name": "Abram Wagner",
+    "num_ratings": 4,
+    "would_take_again_percent": 25
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 3.3,
+    "department": "Mathematics",
+    "name": "Nikos Kolliopoulos",
+    "num_ratings": 3,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 1.5,
+    "avg_rating": 4,
+    "department": "Communication Studies",
+    "name": "Gavin Ploger",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Mathematics",
+    "name": "Alexander Hazeltine",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Business",
+    "name": "Jen Choi",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 5,
+    "avg_rating": 1,
+    "department": "Residential College",
+    "name": "Sandra Nunez",
+    "num_ratings": 1,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 3.6,
+    "department": "Sociology",
+    "name": "Fatma Gocek",
+    "num_ratings": 39,
+    "would_take_again_percent": 72
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.8,
+    "department": "English",
+    "name": "Gillian White",
+    "num_ratings": 26,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 5,
+    "department": "German",
+    "name": "Laura Okkema",
+    "num_ratings": 23,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 2.8,
+    "department": "Anthropology",
+    "name": "Krisztina Fehervary",
+    "num_ratings": 23,
+    "would_take_again_percent": 36.8421
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 4.1,
+    "department": "French",
+    "name": "David Caron",
+    "num_ratings": 22,
+    "would_take_again_percent": 25
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 2.6,
+    "department": "Computer Science",
+    "name": "Barzan Mozafari",
+    "num_ratings": 21,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 3.7,
+    "department": "Astronomy",
+    "name": "Chris Miller",
+    "num_ratings": 17,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 3.6,
+    "department": "German",
+    "name": "Shubhangi Dabak",
+    "num_ratings": 16,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.4,
+    "department": "Information Science",
+    "name": "Chris Teplovs",
+    "num_ratings": 15,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.6,
+    "department": "English",
+    "name": "Scott Beal",
+    "num_ratings": 14,
+    "would_take_again_percent": 87.5
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.2,
+    "department": "English",
+    "name": "Maia Farrar",
+    "num_ratings": 13,
+    "would_take_again_percent": 69.2308
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 2.9,
+    "department": "Information Science",
+    "name": "Michael Hess",
+    "num_ratings": 12,
+    "would_take_again_percent": 30
+  },
+  {
+    "avg_difficulty": 1.5,
+    "avg_rating": 4.9,
+    "department": "Art",
+    "name": "Adrian Deva",
+    "num_ratings": 11,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.6,
+    "avg_rating": 2.4,
+    "department": "MolecularCellularDev Biology",
+    "name": "Hilary Archbold",
+    "num_ratings": 10,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.6,
+    "department": "History",
+    "name": "Deborah Field",
+    "num_ratings": 8,
+    "would_take_again_percent": 87.5
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 1.6,
+    "department": "Electrical Engineering",
+    "name": "Stephen Forrest",
+    "num_ratings": 7,
+    "would_take_again_percent": 14.2857
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.8,
+    "department": "Physics",
+    "name": "Joshua Spitz",
+    "num_ratings": 6,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4.8,
+    "department": "Environment",
+    "name": "M'Lis Bartlett",
+    "num_ratings": 6,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 3.2,
+    "department": "Linguistics",
+    "name": "Natasha Abner",
+    "num_ratings": 6,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 1.4,
+    "avg_rating": 4.2,
+    "department": "English",
+    "name": "Shawn Welch",
+    "num_ratings": 5,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 2.6,
+    "department": "Spanish",
+    "name": "Juan de la Puente Herrero",
+    "num_ratings": 5,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 3,
+    "department": "Art",
+    "name": "Toby Millman",
+    "num_ratings": 4,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4.8,
+    "department": "Spanish",
+    "name": "Maria Valerio Capella",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3.7,
+    "department": "Physics",
+    "name": "Qiong Yang",
+    "num_ratings": 3,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 1.3,
+    "avg_rating": 5,
+    "department": "Languages",
+    "name": "Irene Gonzaga",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 4.5,
+    "department": "Philosophy",
+    "name": "Rachael Goodyer",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.5,
+    "department": "Chemistry",
+    "name": "Yuki Kobayashi",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.5,
+    "avg_rating": 4,
+    "department": "Mathematics",
+    "name": "Reynold Fregoli",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Business",
+    "name": "Jamie Lee",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 2,
+    "department": "Mathematics",
+    "name": "Alejandro BravoDoddoli",
+    "num_ratings": 1,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "MolecularCellularDev Biology",
+    "name": "Morgan DeSantis",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.9,
+    "department": "Economics",
+    "name": "Mitchell Dudley",
+    "num_ratings": 177,
+    "would_take_again_percent": 76.2712
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 2.2,
+    "department": "Statistics",
+    "name": "Nadiya Fink",
+    "num_ratings": 111,
+    "would_take_again_percent": 27.027
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.9,
+    "department": "Computer Science",
+    "name": "James Juett",
+    "num_ratings": 93,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4.3,
+    "department": "Chemistry",
+    "name": "John Montgomery",
+    "num_ratings": 91,
+    "would_take_again_percent": 86.3636
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 4.6,
+    "department": "Art History",
+    "name": "Howard Lay",
+    "num_ratings": 61,
+    "would_take_again_percent": 85
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 3.8,
+    "department": "International Studies",
+    "name": "David Zeglen",
+    "num_ratings": 47,
+    "would_take_again_percent": 71.7391
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 3.5,
+    "department": "Economics",
+    "name": "David Miller",
+    "num_ratings": 46,
+    "would_take_again_percent": 55
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 4.4,
+    "department": "Biology",
+    "name": "Cynthia Giffen",
+    "num_ratings": 39,
+    "would_take_again_percent": 74.2857
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 4.8,
+    "department": "Mathematics",
+    "name": "Patrick Boland",
+    "num_ratings": 38,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 2.8,
+    "department": "Finance",
+    "name": "Qin Lei",
+    "num_ratings": 36,
+    "would_take_again_percent": 37.931
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 2.8,
+    "department": "Women's Studies",
+    "name": "Cynthia Gabriel",
+    "num_ratings": 35,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.2,
+    "department": "Mechanical Engineering",
+    "name": "Michael Umbriac",
+    "num_ratings": 34,
+    "would_take_again_percent": 76.4706
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.9,
+    "department": "Statistics",
+    "name": "Mark Rulkowski",
+    "num_ratings": 32,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4,
+    "department": "African-American Studies",
+    "name": "Scott Ellsworth",
+    "num_ratings": 31,
+    "would_take_again_percent": 81.25
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 2.4,
+    "department": "Mechanical Engineering",
+    "name": "Edgar Meyhofer",
+    "num_ratings": 26,
+    "would_take_again_percent": 30
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4.2,
+    "department": "Philosophy",
+    "name": "Sarah Moss",
+    "num_ratings": 22,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4.7,
+    "department": "French",
+    "name": "Helen Van Doren",
+    "num_ratings": 22,
+    "would_take_again_percent": 92.8571
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 2.7,
+    "department": "Sociology",
+    "name": "Margo Mahan",
+    "num_ratings": 20,
+    "would_take_again_percent": 45
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 4.5,
+    "department": "Art",
+    "name": "Elizabeth Guilmet",
+    "num_ratings": 19,
+    "would_take_again_percent": 89.4737
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 3.4,
+    "department": "Astronomy",
+    "name": "Jon Miller",
+    "num_ratings": 18,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 4.7,
+    "department": "American Studies",
+    "name": "Manan Desai",
+    "num_ratings": 14,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 2.3,
+    "department": "Earth Science",
+    "name": "Sierra Petersen",
+    "num_ratings": 14,
+    "would_take_again_percent": 35.7143
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 1.9,
+    "department": "University Courses",
+    "name": "Elizabeth Whitaker",
+    "num_ratings": 14,
+    "would_take_again_percent": 28.5714
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 3.6,
+    "department": "Italian",
+    "name": "Karla Mallette",
+    "num_ratings": 13,
+    "would_take_again_percent": 69.2308
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 3.4,
+    "department": "Philosophy",
+    "name": "Janum Sethi",
+    "num_ratings": 12,
+    "would_take_again_percent": 55.5556
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 1,
+    "department": "Nursing",
+    "name": "Laura Saslow",
+    "num_ratings": 7,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.2,
+    "department": "Information Science",
+    "name": "Noha Ghannam",
+    "num_ratings": 5,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 2.6,
+    "department": "Mathematics",
+    "name": "Elliot Blackstone",
+    "num_ratings": 5,
+    "would_take_again_percent": 20
+  },
+  {
+    "avg_difficulty": 1.8,
+    "avg_rating": 4.6,
+    "department": "Art",
+    "name": "Katherine  Downie",
+    "num_ratings": 5,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 5,
+    "department": "Mechanical Engineering",
+    "name": "Aaron Gunn",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1.5,
+    "avg_rating": 5,
+    "department": "Fine Arts",
+    "name": "Avery Lawrence",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.3,
+    "avg_rating": 1.3,
+    "department": "Mathematics",
+    "name": "Nizhum Rahman",
+    "num_ratings": 4,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 3,
+    "department": "Nursing",
+    "name": "Kelly Shakoor",
+    "num_ratings": 4,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 1.5,
+    "avg_rating": 5,
+    "department": "Fine Arts",
+    "name": "Erin McKenna",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Anthropology",
+    "name": "Andrew Marshall",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4,
+    "department": "Psychology",
+    "name": "Andras Molnar",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 5,
+    "avg_rating": 5,
+    "department": "Mathematics",
+    "name": "Charles Wang",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.5,
+    "department": "Sociology",
+    "name": "PJ McGann",
+    "num_ratings": 175,
+    "would_take_again_percent": 51.5625
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.4,
+    "department": "English",
+    "name": "Fritz Swanson",
+    "num_ratings": 73,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 3.2,
+    "department": "French",
+    "name": "Roger Butler-Borruat",
+    "num_ratings": 53,
+    "would_take_again_percent": 59.0909
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 3.4,
+    "department": "English",
+    "name": "Geoffrey Bankowski",
+    "num_ratings": 45,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.8,
+    "department": "Spanish",
+    "name": "Kathleen Forrester",
+    "num_ratings": 39,
+    "would_take_again_percent": 94.4444
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.8,
+    "department": "English",
+    "name": "Greg Schutz",
+    "num_ratings": 31,
+    "would_take_again_percent": 61.1111
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.5,
+    "department": "Psychology",
+    "name": "Sheryl Olson",
+    "num_ratings": 29,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 3.6,
+    "department": "Art History",
+    "name": "Lisa Nevett",
+    "num_ratings": 28,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 3.2,
+    "department": "Classics",
+    "name": "Christopher Ratte",
+    "num_ratings": 24,
+    "would_take_again_percent": 7.6923
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.6,
+    "department": "Asian Studies",
+    "name": "Benjamin Brose",
+    "num_ratings": 23,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1.5,
+    "avg_rating": 4.1,
+    "department": "English",
+    "name": "Angele Anderfuren",
+    "num_ratings": 21,
+    "would_take_again_percent": 85.7143
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 4.4,
+    "department": "Asian Studies",
+    "name": "Juhn Ahn",
+    "num_ratings": 20,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 2,
+    "department": "Art",
+    "name": "Holly Hughes",
+    "num_ratings": 20,
+    "would_take_again_percent": 8.3333
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 3.9,
+    "department": "Electrical & Comp. Engineering",
+    "name": "Hector Garcia-Ramirez",
+    "num_ratings": 17,
+    "would_take_again_percent": 93.3333
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 4.2,
+    "department": "Asian Studies",
+    "name": "Wei Liu",
+    "num_ratings": 14,
+    "would_take_again_percent": 71.4286
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 3.8,
+    "department": "French",
+    "name": "Lorrel Sullivan",
+    "num_ratings": 11,
+    "would_take_again_percent": 63.6364
+  },
+  {
+    "avg_difficulty": 4.2,
+    "avg_rating": 3.3,
+    "department": "Economics",
+    "name": "Sara Heller",
+    "num_ratings": 11,
+    "would_take_again_percent": 45.4545
+  },
+  {
+    "avg_difficulty": 4.2,
+    "avg_rating": 2.6,
+    "department": "Ecology & Evolutionary Biology",
+    "name": "Christopher Dick",
+    "num_ratings": 9,
+    "would_take_again_percent": 28.5714
+  },
+  {
+    "avg_difficulty": 1.6,
+    "avg_rating": 5,
+    "department": "Environment",
+    "name": "Justin Colacino",
+    "num_ratings": 7,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.1,
+    "department": "Psychology",
+    "name": "Sarah Jonovich",
+    "num_ratings": 7,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.4,
+    "department": "English",
+    "name": "William Stroebel",
+    "num_ratings": 6,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 3.4,
+    "department": "Mechanical Engineering",
+    "name": "Tian Mi",
+    "num_ratings": 5,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 3.6,
+    "department": "Art History",
+    "name": "Julia Neal",
+    "num_ratings": 5,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 1.3,
+    "avg_rating": 5,
+    "department": "English",
+    "name": "Justin  Mitchell",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 3.8,
+    "department": "Business",
+    "name": "Kramer  Quist",
+    "num_ratings": 4,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 1.3,
+    "avg_rating": 5,
+    "department": "Women's Studies",
+    "name": "Rovel Sequeira",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 1,
+    "department": "Economics",
+    "name": "Damian Vergara",
+    "num_ratings": 1,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3,
+    "department": "Earth Science",
+    "name": "Zack Spica",
+    "num_ratings": 1,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 4.8,
+    "department": "Psychology",
+    "name": "Bill Gehring",
+    "num_ratings": 79,
+    "would_take_again_percent": 95
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 2.1,
+    "department": "Computer Engineering",
+    "name": "Alexander Ganago",
+    "num_ratings": 78,
+    "would_take_again_percent": 23.8095
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.6,
+    "department": "Spanish",
+    "name": "Yeray Ramos-Silgado",
+    "num_ratings": 60,
+    "would_take_again_percent": 89.6552
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4.6,
+    "department": "History",
+    "name": "Joshua Cole",
+    "num_ratings": 54,
+    "would_take_again_percent": 96.875
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 3.6,
+    "department": "English",
+    "name": "Michael Hinken",
+    "num_ratings": 41,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 1.6,
+    "avg_rating": 4.6,
+    "department": "Classics",
+    "name": "Arthur Verhoogt",
+    "num_ratings": 40,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 3,
+    "department": "Foreign Languages",
+    "name": "Andrea Stiasny Carruthers",
+    "num_ratings": 39,
+    "would_take_again_percent": 46.6667
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 3.1,
+    "department": "Statistics",
+    "name": "Paul Green",
+    "num_ratings": 34,
+    "would_take_again_percent": 59.2593
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 3.9,
+    "department": "Spanish",
+    "name": "Carolina Purdy",
+    "num_ratings": 27,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 2.2,
+    "department": "Political Science",
+    "name": "George Tsebelis",
+    "num_ratings": 23,
+    "would_take_again_percent": 7.1429
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 2.2,
+    "department": "Statistics",
+    "name": "Jeffrey Regier",
+    "num_ratings": 21,
+    "would_take_again_percent": 19.0476
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.7,
+    "department": "Spanish",
+    "name": "Teresa Piper",
+    "num_ratings": 20,
+    "would_take_again_percent": 93.3333
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.4,
+    "department": "English",
+    "name": "Daniel Hack",
+    "num_ratings": 19,
+    "would_take_again_percent": 53.8462
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 3.1,
+    "department": "Physics",
+    "name": "Robert Deegan",
+    "num_ratings": 19,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 1.9,
+    "avg_rating": 3.9,
+    "department": "English Language & Literature",
+    "name": "Yopie Prins",
+    "num_ratings": 18,
+    "would_take_again_percent": 57.1429
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 3.1,
+    "department": "African Studies",
+    "name": "Derek Peterson",
+    "num_ratings": 17,
+    "would_take_again_percent": 30.7692
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 3.2,
+    "department": "Chemistry",
+    "name": "James Penner-Hahn",
+    "num_ratings": 15,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 1.7,
+    "department": "Statistics",
+    "name": "Snigdha Panigrahi",
+    "num_ratings": 14,
+    "would_take_again_percent": 7.1429
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.8,
+    "department": "English",
+    "name": "Megan Behrend",
+    "num_ratings": 12,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 2.7,
+    "department": "Anthropology",
+    "name": "Michael Lempert",
+    "num_ratings": 12,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.4,
+    "department": "Business",
+    "name": "Nancy Kotzian",
+    "num_ratings": 10,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.5,
+    "department": "Hebrew",
+    "name": "Maya Barzilai",
+    "num_ratings": 10,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.6,
+    "department": "Spanish",
+    "name": "Gabriel Villarroel",
+    "num_ratings": 9,
+    "would_take_again_percent": 88.8889
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 2.3,
+    "department": "Judaic Studies",
+    "name": "Cara Rock-Singer",
+    "num_ratings": 6,
+    "would_take_again_percent": 16.6667
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 3.6,
+    "department": "Economics",
+    "name": "Justin Wolfers",
+    "num_ratings": 140,
+    "would_take_again_percent": 61.6822
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.5,
+    "department": "Statistics",
+    "name": "Jack Miller",
+    "num_ratings": 94,
+    "would_take_again_percent": 85.5263
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.6,
+    "department": "Spanish",
+    "name": "Andrew Noverr",
+    "num_ratings": 59,
+    "would_take_again_percent": 77.7778
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 2.6,
+    "department": "Ecology & Evolutionary Biology",
+    "name": "John Lehman",
+    "num_ratings": 46,
+    "would_take_again_percent": 15.7895
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.9,
+    "department": "French",
+    "name": "Lauren Wester-Murphy",
+    "num_ratings": 34,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.7,
+    "department": "Psychology",
+    "name": "Joshua Ackerman",
+    "num_ratings": 32,
+    "would_take_again_percent": 93.1034
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 3.7,
+    "department": "Spanish",
+    "name": "Alvaro Perez- Gomez",
+    "num_ratings": 14,
+    "would_take_again_percent": 71.4286
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 4.5,
+    "department": "German",
+    "name": "Silvia Grzeskowiak",
+    "num_ratings": 13,
+    "would_take_again_percent": 84.6154
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 5,
+    "department": "Women's Studies",
+    "name": "Tiffany Ball",
+    "num_ratings": 9,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 2.6,
+    "department": "Social Work",
+    "name": "Colleen Crane",
+    "num_ratings": 7,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 3.8,
+    "department": "African-American Studies",
+    "name": "Marko Mwipopo",
+    "num_ratings": 5,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.6,
+    "department": "Business",
+    "name": "Megan Gabruk",
+    "num_ratings": 5,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Mathematics",
+    "name": "Elizabeth Wolf",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 5,
+    "department": "Mechanical Engineering",
+    "name": "Christopher Vermillion",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 2.8,
+    "department": "History",
+    "name": "David Hancock",
+    "num_ratings": 55,
+    "would_take_again_percent": 23.5294
+  },
+  {
+    "avg_difficulty": 1.7,
+    "avg_rating": 5,
+    "department": "Health Science",
+    "name": "Alice Hou",
+    "num_ratings": 40,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.5,
+    "department": "Art History",
+    "name": "Kevin Carr",
+    "num_ratings": 36,
+    "would_take_again_percent": 87.5
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 1.3,
+    "department": "Materials Engineering",
+    "name": "Rachel Goldman",
+    "num_ratings": 31,
+    "would_take_again_percent": 7.6923
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.1,
+    "department": "Operations Management",
+    "name": "Sara Soderstrom",
+    "num_ratings": 19,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 2.2,
+    "department": "Electrical Engineering",
+    "name": "Amir Mortazawi",
+    "num_ratings": 17,
+    "would_take_again_percent": 61.5385
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.6,
+    "department": "Art",
+    "name": "Andrew Thompson",
+    "num_ratings": 16,
+    "would_take_again_percent": 87.5
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 3.2,
+    "department": "English",
+    "name": "David Porter",
+    "num_ratings": 11,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 3.9,
+    "department": "American Studies",
+    "name": "Bethany Hughes",
+    "num_ratings": 8,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 4.9,
+    "department": "German",
+    "name": "Mary Rodena-Krasan",
+    "num_ratings": 5,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.4,
+    "avg_rating": 2.4,
+    "department": "Physics",
+    "name": "Leopoldo Zayas",
+    "num_ratings": 5,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 2.2,
+    "department": "Physics",
+    "name": "Tobias Eckhause",
+    "num_ratings": 126,
+    "would_take_again_percent": 16.8831
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4.5,
+    "department": "Chemistry",
+    "name": "Melanie Sanford",
+    "num_ratings": 73,
+    "would_take_again_percent": 88.2353
+  },
+  {
+    "avg_difficulty": 1.8,
+    "avg_rating": 4.6,
+    "department": "Astronomy",
+    "name": "Eric Bell",
+    "num_ratings": 53,
+    "would_take_again_percent": 92
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 2,
+    "department": "Computer Science",
+    "name": "Quentin Stout",
+    "num_ratings": 21,
+    "would_take_again_percent": 14.2857
+  },
+  {
+    "avg_difficulty": 4.3,
+    "avg_rating": 2.3,
+    "department": "Finance",
+    "name": "Jason Hall",
+    "num_ratings": 13,
+    "would_take_again_percent": 30.7692
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.6,
+    "department": "Psychology",
+    "name": "Myles Durkee",
+    "num_ratings": 11,
+    "would_take_again_percent": 72.7273
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.6,
+    "department": "Spanish",
+    "name": "Mar Hermida",
+    "num_ratings": 9,
+    "would_take_again_percent": 88.8889
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 4.1,
+    "department": "French",
+    "name": "Kathy Meyer",
+    "num_ratings": 7,
+    "would_take_again_percent": 85.7143
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 3.5,
+    "department": "Mathematics",
+    "name": "Roberta Shapiro",
+    "num_ratings": 6,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 1.8,
+    "avg_rating": 3.8,
+    "department": "Communication Studies",
+    "name": "Ragan  Glover",
+    "num_ratings": 4,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 3.5,
+    "department": "Sociology",
+    "name": "Juan Delgado",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.4,
+    "department": "Economics",
+    "name": "Benjamin Zamzow",
+    "num_ratings": 69,
+    "would_take_again_percent": 81.1594
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.5,
+    "department": "English",
+    "name": "Jaimien Delp",
+    "num_ratings": 38,
+    "would_take_again_percent": 87.5
+  },
+  {
+    "avg_difficulty": 1.9,
+    "avg_rating": 4.6,
+    "department": "Health Education",
+    "name": "Victor Strecher",
+    "num_ratings": 37,
+    "would_take_again_percent": 82.3529
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 3.7,
+    "department": "French",
+    "name": "Caitlin Mileski",
+    "num_ratings": 20,
+    "would_take_again_percent": 70
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 3.7,
+    "department": "English",
+    "name": "Jen Steinorth",
+    "num_ratings": 18,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.4,
+    "department": "Art History",
+    "name": "Daniel Herwitz",
+    "num_ratings": 14,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.2,
+    "department": "Linguistics",
+    "name": "Yourdanis Sedarous",
+    "num_ratings": 13,
+    "would_take_again_percent": 61.5385
+  },
+  {
+    "avg_difficulty": 1.8,
+    "avg_rating": 3.6,
+    "department": "Anthropology",
+    "name": "Tina Lasisi",
+    "num_ratings": 13,
+    "would_take_again_percent": 61.5385
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.1,
+    "department": "Electrical  Comp. Engineering",
+    "name": "Cynthia Finelli",
+    "num_ratings": 8,
+    "would_take_again_percent": 71.4286
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 4.7,
+    "department": "Economics",
+    "name": "mu zhang",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 4.6,
+    "department": "Computer Science",
+    "name": "Andrew Deorio",
+    "num_ratings": 138,
+    "would_take_again_percent": 89.5833
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.6,
+    "department": "History",
+    "name": "Juan Cole",
+    "num_ratings": 107,
+    "would_take_again_percent": 78.9474
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.5,
+    "department": "Psychology",
+    "name": "Kathleen Jodl",
+    "num_ratings": 103,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 4.8,
+    "department": "Spanish",
+    "name": "Michelle Orecchio",
+    "num_ratings": 76,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.1,
+    "avg_rating": 2.4,
+    "department": "Communication",
+    "name": "Derek Vaillant",
+    "num_ratings": 55,
+    "would_take_again_percent": 9.5238
+  },
+  {
+    "avg_difficulty": 4.4,
+    "avg_rating": 3.8,
+    "department": "Political Science",
+    "name": "Mariah Zeisberg",
+    "num_ratings": 39,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 4.2,
+    "department": "Sociology",
+    "name": "David Schoem",
+    "num_ratings": 33,
+    "would_take_again_percent": 42.8571
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 5,
+    "department": "Chemistry",
+    "name": "Cole Meyer",
+    "num_ratings": 23,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.8,
+    "department": "Spanish",
+    "name": "Javier Entrambasaguas",
+    "num_ratings": 22,
+    "would_take_again_percent": 92.8571
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.8,
+    "department": "Spanish",
+    "name": "Lisa Montes",
+    "num_ratings": 21,
+    "would_take_again_percent": 95.2381
+  },
+  {
+    "avg_difficulty": 1.9,
+    "avg_rating": 2.7,
+    "department": "Linguistics",
+    "name": "Jelena Krivokapic",
+    "num_ratings": 17,
+    "would_take_again_percent": 41.1765
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 3.7,
+    "department": "Psychology",
+    "name": "Jonathan Brennan",
+    "num_ratings": 16,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.9,
+    "department": "Biology",
+    "name": "Rafiqa Ameziane",
+    "num_ratings": 16,
+    "would_take_again_percent": 91.6667
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.9,
+    "department": "Psychology",
+    "name": "Lucretia Ward",
+    "num_ratings": 16,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 4.5,
+    "department": "Economics",
+    "name": "Emilio Borghesan",
+    "num_ratings": 14,
+    "would_take_again_percent": 85.7143
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 2.1,
+    "department": "Computer Science",
+    "name": "Jeong Joon Park",
+    "num_ratings": 11,
+    "would_take_again_percent": 18.1818
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.9,
+    "department": "Aerospace Studies",
+    "name": "Aaron Johnson",
+    "num_ratings": 11,
+    "would_take_again_percent": 90.9091
+  },
+  {
+    "avg_difficulty": 1.8,
+    "avg_rating": 3.4,
+    "department": "Nursing",
+    "name": "Kevin Joiner",
+    "num_ratings": 11,
+    "would_take_again_percent": 54.5455
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 2.9,
+    "department": "Mathematics",
+    "name": "Jonathan Guzman",
+    "num_ratings": 9,
+    "would_take_again_percent": 37.5
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Foreign Languages",
+    "name": "Gabriella Liburdi",
+    "num_ratings": 7,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 4.8,
+    "department": "Physics",
+    "name": "Ramon Torres-Isea",
+    "num_ratings": 6,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 5,
+    "department": "French",
+    "name": "Adrion Dula",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.7,
+    "department": "Physics",
+    "name": "Lu Li",
+    "num_ratings": 3,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 5,
+    "avg_rating": 4,
+    "department": "Mathematics",
+    "name": "Melody Wilson",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 5,
+    "department": "History",
+    "name": "Sanne Ravensbergen",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.4,
+    "department": "Political Science",
+    "name": "James Morrow",
+    "num_ratings": 180,
+    "would_take_again_percent": 58.9286
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4.7,
+    "department": "English",
+    "name": "Jeremiah Chamberlin",
+    "num_ratings": 62,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 3.6,
+    "department": "Communication",
+    "name": "Susan Douglas",
+    "num_ratings": 56,
+    "would_take_again_percent": 59.2593
+  },
+  {
+    "avg_difficulty": 1.8,
+    "avg_rating": 4.3,
+    "department": "Environmental Science",
+    "name": "Roger De Roo",
+    "num_ratings": 25,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 4.9,
+    "department": "Japanese",
+    "name": "Masae Yasuda",
+    "num_ratings": 24,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 3.3,
+    "department": "Film",
+    "name": "Matthew Solomon",
+    "num_ratings": 23,
+    "would_take_again_percent": 63.6364
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 1.7,
+    "department": "Information Science",
+    "name": "Gabriela Marcu",
+    "num_ratings": 22,
+    "would_take_again_percent": 18.1818
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 3.3,
+    "department": "Political Science",
+    "name": "Ted Brader",
+    "num_ratings": 21,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4.3,
+    "department": "English",
+    "name": "Joshua Kupetz",
+    "num_ratings": 21,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 1.9,
+    "avg_rating": 4.4,
+    "department": "English Language & Literature",
+    "name": "Tina Hetzel",
+    "num_ratings": 20,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1.4,
+    "avg_rating": 5,
+    "department": "English",
+    "name": "Ariel Kaplowitz-Hahn",
+    "num_ratings": 19,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 4.2,
+    "department": "French",
+    "name": "Ryan Hendrickson",
+    "num_ratings": 19,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4,
+    "department": "Spanish",
+    "name": "Gustavo Verdesio",
+    "num_ratings": 19,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.5,
+    "department": "Women's Studies",
+    "name": "Sara McClelland",
+    "num_ratings": 16,
+    "would_take_again_percent": 93.3333
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Engineering",
+    "name": "Jeffrey Koller",
+    "num_ratings": 15,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.7,
+    "department": "Mathematics",
+    "name": "Kristen Moore",
+    "num_ratings": 15,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.6,
+    "department": "Psychology",
+    "name": "Donna Nagata",
+    "num_ratings": 14,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1.9,
+    "avg_rating": 4.9,
+    "department": "Writing",
+    "name": "Catherine Cassel",
+    "num_ratings": 13,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4.2,
+    "department": "Materials Engineering",
+    "name": "Max Shtein",
+    "num_ratings": 11,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 3.9,
+    "department": "Architecture",
+    "name": "Anca Trandafirescu",
+    "num_ratings": 11,
+    "would_take_again_percent": 77.7778
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 2.4,
+    "department": "Civil Engineering",
+    "name": "Lissa MacVean",
+    "num_ratings": 9,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 4.6,
+    "department": "Mathematics",
+    "name": "Kartik Prasanna",
+    "num_ratings": 8,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 5,
+    "department": "Film",
+    "name": "Michael Burke",
+    "num_ratings": 7,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1,
+    "avg_rating": 3.8,
+    "department": "Psychology",
+    "name": "Jasmine Boster",
+    "num_ratings": 4,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.7,
+    "department": "Spanish",
+    "name": "Zachary Severs",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4.7,
+    "department": "Near Eastern Studies",
+    "name": "Deborah Forger",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.5,
+    "avg_rating": 3,
+    "department": "Classics",
+    "name": "Shonda Tohm",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Movement Sciences",
+    "name": "Laura Richardson",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.5,
+    "department": "Psychology",
+    "name": "Germine Awad",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 1,
+    "avg_rating": 5,
+    "department": "Political Science",
+    "name": "Shea Streeter",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4.5,
+    "department": "Film",
+    "name": "Mark Kligerman",
+    "num_ratings": 58,
+    "would_take_again_percent": 88.2353
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.2,
+    "department": "Spanish",
+    "name": "Mariela De La Torre",
+    "num_ratings": 53,
+    "would_take_again_percent": 61.1111
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 3,
+    "department": "Mathematics",
+    "name": "Daniel Burns",
+    "num_ratings": 24,
+    "would_take_again_percent": 26.6667
+  },
+  {
+    "avg_difficulty": 1.7,
+    "avg_rating": 4.1,
+    "department": "Anthropology",
+    "name": "Abigail Dumes",
+    "num_ratings": 21,
+    "would_take_again_percent": 84.2105
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 1.7,
+    "department": "Art",
+    "name": "Melanie Manos",
+    "num_ratings": 16,
+    "would_take_again_percent": 20
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 3.1,
+    "department": "English",
+    "name": "David Gold",
+    "num_ratings": 16,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 4.9,
+    "avg_rating": 1.1,
+    "department": "Electrical Engineering",
+    "name": "Kamal Sarabandi",
+    "num_ratings": 11,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 1.5,
+    "avg_rating": 3.6,
+    "department": "Music",
+    "name": "James Bodiford",
+    "num_ratings": 8,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 4.7,
+    "avg_rating": 1.3,
+    "department": "Aerospace Studies",
+    "name": "Christopher Limbach",
+    "num_ratings": 7,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 3.7,
+    "department": "Business",
+    "name": "Susan Miller",
+    "num_ratings": 7,
+    "would_take_again_percent": 57.1429
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.8,
+    "department": "Mathematics",
+    "name": "Victoria Booth",
+    "num_ratings": 5,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 5,
+    "department": "Business",
+    "name": "Jeremy Kress",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1,
+    "avg_rating": 5,
+    "department": "American Lng/Culture Institute",
+    "name": "Yarden Katz",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.2,
+    "department": "Political Science",
+    "name": "Vincent Hutchings",
+    "num_ratings": 49,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 3.8,
+    "department": "Linguistics",
+    "name": "Paula Berwanger",
+    "num_ratings": 34,
+    "would_take_again_percent": 72.7273
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 3.7,
+    "department": "Music",
+    "name": "Karen Fournier",
+    "num_ratings": 24,
+    "would_take_again_percent": 52.9412
+  },
+  {
+    "avg_difficulty": 1.8,
+    "avg_rating": 4.4,
+    "department": "Aerospace Studies",
+    "name": "George Halow",
+    "num_ratings": 19,
+    "would_take_again_percent": 84.2105
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 2.2,
+    "department": "Computer Science",
+    "name": "Grant Schoenebeck",
+    "num_ratings": 17,
+    "would_take_again_percent": 18.1818
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4.7,
+    "department": "Natural Resources",
+    "name": "Kim Diver",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 2,
+    "department": "Ecology amp Evolutionary Biology",
+    "name": "Luis Zaman",
+    "num_ratings": 1,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 3,
+    "department": "Biology",
+    "name": "Kenneth Cadigan",
+    "num_ratings": 77,
+    "would_take_again_percent": 57.1429
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 3.2,
+    "department": "Physics",
+    "name": "Keith Riles",
+    "num_ratings": 58,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 3.7,
+    "department": "English",
+    "name": "Alisse Portnoy",
+    "num_ratings": 53,
+    "would_take_again_percent": 87.5
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.7,
+    "department": "Spanish",
+    "name": "Nicholas Henriksen",
+    "num_ratings": 16,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 5,
+    "department": "English",
+    "name": "Lisa Vandenbossche",
+    "num_ratings": 12,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 4.7,
+    "department": "Biology",
+    "name": "Laura Buttitta",
+    "num_ratings": 12,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.3,
+    "avg_rating": 3.3,
+    "department": "Mathematics",
+    "name": "Ike Tan",
+    "num_ratings": 10,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 4.3,
+    "department": "Psychology",
+    "name": "Nansook Park",
+    "num_ratings": 66,
+    "would_take_again_percent": 81.25
+  },
+  {
+    "avg_difficulty": 4.3,
+    "avg_rating": 2.8,
+    "department": "Art",
+    "name": "Rebekah Modrak",
+    "num_ratings": 57,
+    "would_take_again_percent": 55.8824
+  },
+  {
+    "avg_difficulty": 1.6,
+    "avg_rating": 4.8,
+    "department": "Psychology",
+    "name": "Monique Ward",
+    "num_ratings": 55,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1.7,
+    "avg_rating": 4.5,
+    "department": "Russian",
+    "name": "Piotr Westwalewicz",
+    "num_ratings": 55,
+    "would_take_again_percent": 90.3226
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.3,
+    "department": "Chemistry",
+    "name": "Ginger Shultz",
+    "num_ratings": 51,
+    "would_take_again_percent": 53.125
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3.9,
+    "department": "Sociology",
+    "name": "Sarah Burgard",
+    "num_ratings": 41,
+    "would_take_again_percent": 70
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.4,
+    "department": "Latin",
+    "name": "Benjamin Fortson",
+    "num_ratings": 33,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.6,
+    "department": "History",
+    "name": "Katherine French",
+    "num_ratings": 22,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.7,
+    "department": "Residential College",
+    "name": "Karein Goertz",
+    "num_ratings": 19,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.2,
+    "department": "Geology",
+    "name": "Marin Kristen Clark",
+    "num_ratings": 17,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.3,
+    "department": "Business",
+    "name": "Anuradha Nagarajan",
+    "num_ratings": 16,
+    "would_take_again_percent": 53.8462
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 5,
+    "department": "Residential College",
+    "name": "Sarah Messer",
+    "num_ratings": 10,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 4,
+    "department": "Music",
+    "name": "Somangshu Mukherji",
+    "num_ratings": 5,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 1.5,
+    "avg_rating": 4.5,
+    "department": "Asian Studies",
+    "name": "David Brick",
+    "num_ratings": 4,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4,
+    "department": "Languages",
+    "name": "Tina Odonell",
+    "num_ratings": 3,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.5,
+    "department": "Anthropology",
+    "name": "Carla Cribari-Assali",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 3.7,
+    "department": "Art History",
+    "name": "David Doris",
+    "num_ratings": 37,
+    "would_take_again_percent": 41.6667
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 4.9,
+    "department": "Asian Studies",
+    "name": "Pinderjeet Gill",
+    "num_ratings": 28,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 2.7,
+    "department": "Accounting",
+    "name": "Dennis Oswald",
+    "num_ratings": 14,
+    "would_take_again_percent": 30
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 1.6,
+    "department": "Economics",
+    "name": "Olga Lazareva",
+    "num_ratings": 14,
+    "would_take_again_percent": 7.1429
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 4,
+    "department": "English",
+    "name": "Tracy Zeman",
+    "num_ratings": 6,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 3,
+    "department": "Physics",
+    "name": "Alex Kuzmich",
+    "num_ratings": 4,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Engineering",
+    "name": "Brian Kish",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4,
+    "department": "Music",
+    "name": "Zeynep Ozcan",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 3.5,
+    "department": "Linguistics",
+    "name": "Elaine McNulty",
+    "num_ratings": 64,
+    "would_take_again_percent": 27.2727
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 4.9,
+    "department": "Aerospace Studies",
+    "name": "Peter Washabaugh",
+    "num_ratings": 53,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.2,
+    "department": "Sociology",
+    "name": "Robert Jansen",
+    "num_ratings": 44,
+    "would_take_again_percent": 75.8621
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.7,
+    "department": "French",
+    "name": "Bethany Kreps",
+    "num_ratings": 42,
+    "would_take_again_percent": 95.8333
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 2.5,
+    "department": "History",
+    "name": "Hitomi Tonomura",
+    "num_ratings": 29,
+    "would_take_again_percent": 20
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.4,
+    "department": "Psychology",
+    "name": "Dina Gohar",
+    "num_ratings": 23,
+    "would_take_again_percent": 86.9565
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 4,
+    "department": "Computer Science",
+    "name": "Honglak Lee",
+    "num_ratings": 21,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.2,
+    "department": "History",
+    "name": "Hakki Erdem Cipa",
+    "num_ratings": 21,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 3.6,
+    "department": "Astronomy",
+    "name": "Kayhan Gultekin",
+    "num_ratings": 14,
+    "would_take_again_percent": 85.7143
+  },
+  {
+    "avg_difficulty": 5,
+    "avg_rating": 1,
+    "department": "Environmental Science",
+    "name": "Sheila Schueller",
+    "num_ratings": 1,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 5,
+    "department": "Psychology",
+    "name": "Annelise   Madison",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 5,
+    "department": "Chemistry",
+    "name": "Joshua Buss",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 3.2,
+    "department": "Psychology",
+    "name": "James Hoeffner",
+    "num_ratings": 138,
+    "would_take_again_percent": 40.8163
+  },
+  {
+    "avg_difficulty": 4.1,
+    "avg_rating": 2.9,
+    "department": "Electrical Engineering",
+    "name": "Fred Terry",
+    "num_ratings": 104,
+    "would_take_again_percent": 22.449
+  },
+  {
+    "avg_difficulty": 4.1,
+    "avg_rating": 2.5,
+    "department": "Electrical Engineering",
+    "name": "Achilleas Anastasopoulos",
+    "num_ratings": 88,
+    "would_take_again_percent": 29.4118
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 3.4,
+    "department": "Psychology",
+    "name": "Elizabeth Buvinger",
+    "num_ratings": 68,
+    "would_take_again_percent": 64.7059
+  },
+  {
+    "avg_difficulty": 4.6,
+    "avg_rating": 1.8,
+    "department": "Mathematics",
+    "name": "Robert Griess",
+    "num_ratings": 38,
+    "would_take_again_percent": 26.6667
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 3.4,
+    "department": "Italian",
+    "name": "Amaryllis Rodriguez",
+    "num_ratings": 24,
+    "would_take_again_percent": 69.2308
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.7,
+    "department": "Computer Science",
+    "name": "Westley Weimer",
+    "num_ratings": 23,
+    "would_take_again_percent": 91.3043
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.9,
+    "department": "Physics",
+    "name": "Mark Newman",
+    "num_ratings": 21,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 5,
+    "department": "English",
+    "name": "Megan Carlson",
+    "num_ratings": 19,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.5,
+    "department": "Creative Writing",
+    "name": "Molly Lynch",
+    "num_ratings": 15,
+    "would_take_again_percent": 86.6667
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 4.5,
+    "department": "Civil Engineering",
+    "name": "Enrica Bernardini",
+    "num_ratings": 15,
+    "would_take_again_percent": 93.3333
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 1.9,
+    "department": "Art",
+    "name": "Kate Rubin",
+    "num_ratings": 14,
+    "would_take_again_percent": 21.4286
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 2.7,
+    "department": "Kinesiology",
+    "name": "Joshua Mergos",
+    "num_ratings": 6,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 3.8,
+    "department": "Finance",
+    "name": "Toni Whited",
+    "num_ratings": 4,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 5,
+    "avg_rating": 4,
+    "department": "Information Science",
+    "name": "Benjamin Mullins",
+    "num_ratings": 3,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 5,
+    "department": "Spanish",
+    "name": "Youngkyun Choi",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1,
+    "avg_rating": 5,
+    "department": "Film",
+    "name": "Josef Nguyen",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 4,
+    "department": "History",
+    "name": "Mrinalini Sinha",
+    "num_ratings": 20,
+    "would_take_again_percent": 70
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4.3,
+    "department": "English",
+    "name": "John Buckley",
+    "num_ratings": 19,
+    "would_take_again_percent": 89.4737
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 3.6,
+    "department": "Industrial Engineering",
+    "name": "Raed Al Kontar",
+    "num_ratings": 18,
+    "would_take_again_percent": 76.4706
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 3.9,
+    "department": "Electrical Engineering",
+    "name": "Herbert Winful",
+    "num_ratings": 13,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 2.4,
+    "department": "Economics",
+    "name": "Brian McCall",
+    "num_ratings": 13,
+    "would_take_again_percent": 30.7692
+  },
+  {
+    "avg_difficulty": 1.6,
+    "avg_rating": 4.8,
+    "department": "Linguistics",
+    "name": "Doug Merchant",
+    "num_ratings": 5,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Architecture",
+    "name": "Alex Johnston",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.7,
+    "department": "Film",
+    "name": "Daniel Herbert",
+    "num_ratings": 32,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.1,
+    "avg_rating": 3.3,
+    "department": "French",
+    "name": "Juliette Moutinou",
+    "num_ratings": 145,
+    "would_take_again_percent": 57.1429
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.5,
+    "department": "History",
+    "name": "Brian Porter",
+    "num_ratings": 84,
+    "would_take_again_percent": 84.6154
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 4.7,
+    "department": "Film",
+    "name": "Sheila Murphy",
+    "num_ratings": 23,
+    "would_take_again_percent": 90
+  },
+  {
+    "avg_difficulty": 1.8,
+    "avg_rating": 5,
+    "department": "Languages",
+    "name": "Jon Cho-Polizzi",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 1,
+    "department": "Mathematics",
+    "name": "Chinmaya Kausik",
+    "num_ratings": 3,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 5,
+    "department": "Music",
+    "name": "Mackenzie Pierce",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 5,
+    "department": "Music",
+    "name": "Henry Stoll",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1,
+    "avg_rating": 5,
+    "department": "English",
+    "name": "Zainab Hussein",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 4.1,
+    "department": "Physics",
+    "name": "August Evrard",
+    "num_ratings": 68,
+    "would_take_again_percent": 85.7143
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.2,
+    "department": "Spanish",
+    "name": "Jose Luis Fernandez Garcia",
+    "num_ratings": 48,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4,
+    "department": "Film",
+    "name": "Victor Fanucchi",
+    "num_ratings": 19,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 5,
+    "department": "English",
+    "name": "Noha Beydoun",
+    "num_ratings": 19,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 5,
+    "department": "Computer Science",
+    "name": "Greg Bodwin",
+    "num_ratings": 16,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 3.2,
+    "department": "Computer Science",
+    "name": "Odest Chadwicke Jenkins",
+    "num_ratings": 6,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 2.6,
+    "department": "German",
+    "name": "Tyler Whitney",
+    "num_ratings": 5,
+    "would_take_again_percent": 25
+  },
+  {
+    "avg_difficulty": 4.5,
+    "avg_rating": 3,
+    "department": "History",
+    "name": "Michael Hickok",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 1,
+    "department": "Engineering",
+    "name": "Bernadette Bucher",
+    "num_ratings": 1,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 1,
+    "avg_rating": 5,
+    "department": "Literature",
+    "name": "Ahmad Ibsais",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 4.9,
+    "department": "German",
+    "name": "Kalli Federhofer",
+    "num_ratings": 53,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.4,
+    "department": "Scandinavian",
+    "name": "Maria Gull",
+    "num_ratings": 52,
+    "would_take_again_percent": 74.0741
+  },
+  {
+    "avg_difficulty": 1.7,
+    "avg_rating": 4.8,
+    "department": "German",
+    "name": "Mary Gell",
+    "num_ratings": 26,
+    "would_take_again_percent": 90
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4.2,
+    "department": "Communication Studies",
+    "name": "Jimmy Draper ",
+    "num_ratings": 22,
+    "would_take_again_percent": 84.6154
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4.5,
+    "department": "Business",
+    "name": "Murat Koksalan",
+    "num_ratings": 15,
+    "would_take_again_percent": 86.6667
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 5,
+    "department": "Psychology",
+    "name": "Carol Holden",
+    "num_ratings": 11,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 3.1,
+    "department": "Economics",
+    "name": "Sebastian Sotelo",
+    "num_ratings": 11,
+    "would_take_again_percent": 57.1429
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4.2,
+    "department": "Education",
+    "name": "Greg Dooley",
+    "num_ratings": 9,
+    "would_take_again_percent": 77.7778
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 4.7,
+    "department": "Art History",
+    "name": "Cathy Barry",
+    "num_ratings": 6,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 4.2,
+    "department": "Mathematics",
+    "name": "Seungsu Lee",
+    "num_ratings": 5,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 1.8,
+    "department": "Information Science",
+    "name": "Sabina Tomkins",
+    "num_ratings": 4,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 4.7,
+    "department": "Film",
+    "name": "Vincent Longo",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1,
+    "avg_rating": 5,
+    "department": "Psychology",
+    "name": "Reid  Depowski-Knowles",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 4.2,
+    "department": "Classics",
+    "name": "Sara Forsdyke",
+    "num_ratings": 37,
+    "would_take_again_percent": 70
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 4.2,
+    "department": "Kinesiology",
+    "name": "Peter Bodary",
+    "num_ratings": 33,
+    "would_take_again_percent": 90
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 3.7,
+    "department": "Spanish",
+    "name": "Maria Dorantes",
+    "num_ratings": 30,
+    "would_take_again_percent": 58.3333
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4,
+    "department": "Film",
+    "name": "Christopher McNamara",
+    "num_ratings": 24,
+    "would_take_again_percent": 71.4286
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.1,
+    "department": "French",
+    "name": "Eric Beuerlein",
+    "num_ratings": 22,
+    "would_take_again_percent": 86.3636
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 1.9,
+    "department": "Art History",
+    "name": "Laura Motta",
+    "num_ratings": 16,
+    "would_take_again_percent": 44.4444
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.4,
+    "department": "Accounting",
+    "name": "Itay Kama",
+    "num_ratings": 12,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 5,
+    "department": "History",
+    "name": "Anna Freidin",
+    "num_ratings": 12,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 2.2,
+    "department": "Aerospace Studies",
+    "name": "Bilal Sharqi",
+    "num_ratings": 6,
+    "would_take_again_percent": 16.6667
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 3.6,
+    "department": "Mechanical Engineering",
+    "name": "Allen Liu",
+    "num_ratings": 6,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 3.8,
+    "department": "Astronomy",
+    "name": "Alexander Rodriguez",
+    "num_ratings": 4,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 5,
+    "department": "University Courses",
+    "name": "Teresa Sanchez-Snell",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 3,
+    "department": "Biology",
+    "name": "Cindee Giffen",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 2,
+    "department": "Business",
+    "name": "Christina Eckhoff",
+    "num_ratings": 2,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "American Lng/Culture Institute",
+    "name": "Adam Spry",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.8,
+    "department": "Mathematics",
+    "name": "Robert Krasny",
+    "num_ratings": 43,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 3,
+    "department": "Classical Studies",
+    "name": "Francesca Schironi",
+    "num_ratings": 37,
+    "would_take_again_percent": 21.0526
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.8,
+    "department": "Spanish",
+    "name": "Ann Hilberry",
+    "num_ratings": 17,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 3.9,
+    "department": "Spanish",
+    "name": "Marlene Beiza-Latorre",
+    "num_ratings": 16,
+    "would_take_again_percent": 68.75
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4.3,
+    "department": "Asian Studies",
+    "name": "Allison Alexy",
+    "num_ratings": 15,
+    "would_take_again_percent": 73.3333
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4,
+    "department": "History",
+    "name": "Sam Erman ",
+    "num_ratings": 7,
+    "would_take_again_percent": 57.1429
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4.8,
+    "department": "Environmental Science",
+    "name": "Richard Neitzel",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.7,
+    "avg_rating": 1,
+    "department": "Social Work",
+    "name": "Maureen Okasinski",
+    "num_ratings": 3,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.7,
+    "department": "Mathematics",
+    "name": "Razan Taha",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1.8,
+    "avg_rating": 4.2,
+    "department": "Kinesiology",
+    "name": "Heidi Buchele",
+    "num_ratings": 9,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.5,
+    "department": "Kinesiology",
+    "name": "Michele Bird",
+    "num_ratings": 4,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 4.3,
+    "avg_rating": 1.3,
+    "department": "Information Science",
+    "name": "Katie  LaPlant",
+    "num_ratings": 4,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 1,
+    "avg_rating": 5,
+    "department": "Women's Studies",
+    "name": "Elizabeth Miller",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 5,
+    "department": "Information Science",
+    "name": "John Thompson",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4,
+    "department": "Computer Science",
+    "name": "Amrita Chowdhury",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.1,
+    "department": "Writing",
+    "name": "Andrea Morrow",
+    "num_ratings": 7,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 4.2,
+    "avg_rating": 4.6,
+    "department": "Mathematics",
+    "name": "Stephen Debacker",
+    "num_ratings": 85,
+    "would_take_again_percent": 92.5
+  },
+  {
+    "avg_difficulty": 4.6,
+    "avg_rating": 1.8,
+    "department": "Molecular/Cellular/Dev Biology",
+    "name": "Libo Shan",
+    "num_ratings": 18,
+    "would_take_again_percent": 11.1111
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 4.2,
+    "department": "English",
+    "name": "Aric Knuth",
+    "num_ratings": 62,
+    "would_take_again_percent": 91.6667
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.4,
+    "department": "English",
+    "name": "Gina Brandolino",
+    "num_ratings": 49,
+    "would_take_again_percent": 72.7273
+  },
+  {
+    "avg_difficulty": 1.5,
+    "avg_rating": 4.7,
+    "department": "Psychology",
+    "name": "Bob Pachella",
+    "num_ratings": 36,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 3.1,
+    "department": "Political Science",
+    "name": "Pauline Jones",
+    "num_ratings": 18,
+    "would_take_again_percent": 55.5556
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.2,
+    "department": "MolecularCellularDev Biology",
+    "name": "Ann Miller",
+    "num_ratings": 5,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Psychology",
+    "name": "Erin Naffziger",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 5,
+    "department": "Mathematics",
+    "name": "James Wheeler",
+    "num_ratings": 12,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 2.4,
+    "department": "Microbiology",
+    "name": "Yasmina Laouar",
+    "num_ratings": 11,
+    "would_take_again_percent": 45.4545
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 4.4,
+    "department": "Nursing",
+    "name": "Alec Briggs",
+    "num_ratings": 5,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 3.8,
+    "department": "Social Work",
+    "name": "Shanna Kattari",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 3.3,
+    "department": "Political Science",
+    "name": "Anne Manuel",
+    "num_ratings": 75,
+    "would_take_again_percent": 64.2857
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 4.8,
+    "department": "English Language & Literature",
+    "name": "Philip Christman",
+    "num_ratings": 56,
+    "would_take_again_percent": 93.75
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 3.2,
+    "department": "Anthropology",
+    "name": "Alaina Lemon",
+    "num_ratings": 42,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.9,
+    "department": "Accounting",
+    "name": "Jeff Williams",
+    "num_ratings": 27,
+    "would_take_again_percent": 61.5385
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 2.4,
+    "department": "Industrial Engineering",
+    "name": "Yavuz Bozer",
+    "num_ratings": 16,
+    "would_take_again_percent": 37.5
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 4.3,
+    "department": "English",
+    "name": "Aida Levy-Hussen",
+    "num_ratings": 3,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 5,
+    "department": "Social Work",
+    "name": "Ayesha Ghazi",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1.5,
+    "avg_rating": 4,
+    "department": "Industrial Engineering",
+    "name": "Paul Pridham",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 4.6,
+    "department": "Physics",
+    "name": "Dave Winn",
+    "num_ratings": 259,
+    "would_take_again_percent": 91.1765
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 4.8,
+    "department": "Computer Science",
+    "name": "Marcus Darden",
+    "num_ratings": 28,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 1.8,
+    "department": "Electrical amp Comp. Engineering",
+    "name": "David Garmire",
+    "num_ratings": 8,
+    "would_take_again_percent": 37.5
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4,
+    "department": "English",
+    "name": "Douglas Trevor",
+    "num_ratings": 57,
+    "would_take_again_percent": 64.7059
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 2.7,
+    "department": "English",
+    "name": "Aisha Sloan",
+    "num_ratings": 7,
+    "would_take_again_percent": 42.8571
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 3.3,
+    "department": "Not Specified",
+    "name": "Petra Kuppers",
+    "num_ratings": 6,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 3.7,
+    "department": "Latin",
+    "name": "Donka Markus",
+    "num_ratings": 26,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 4.1,
+    "avg_rating": 2.7,
+    "department": "Electrical Engineering",
+    "name": "Sugih Jamin",
+    "num_ratings": 25,
+    "would_take_again_percent": 30
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.6,
+    "department": "Art",
+    "name": "Isaac Wingfield",
+    "num_ratings": 7,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.2,
+    "department": "English",
+    "name": "Enoch Brater",
+    "num_ratings": 34,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 1.4,
+    "avg_rating": 5,
+    "department": "Entrepreneurship",
+    "name": "Praveen Loganathan",
+    "num_ratings": 7,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3,
+    "department": "Nursing",
+    "name": "Amy Buckenmeyer",
+    "num_ratings": 3,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 5,
+    "department": "Nursing",
+    "name": "Wm. Chas Sloan",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.6,
+    "department": "Spanish",
+    "name": "Carla Iglesias-Garrido",
+    "num_ratings": 43,
+    "would_take_again_percent": 81.25
+  },
+  {
+    "avg_difficulty": 4.2,
+    "avg_rating": 3.6,
+    "department": "Mathematics",
+    "name": "Denise Lee",
+    "num_ratings": 42,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 1.7,
+    "avg_rating": 4.3,
+    "department": "Communication Studies",
+    "name": "Sol Hart",
+    "num_ratings": 12,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 5,
+    "department": "Communication Studies",
+    "name": "Brian Weeks",
+    "num_ratings": 9,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.5,
+    "department": "History",
+    "name": "Yanay Israeli",
+    "num_ratings": 4,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4,
+    "department": "English",
+    "name": "Mary Spooner",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.8,
+    "department": "Environmental Science",
+    "name": "Johannes Foufopoulos",
+    "num_ratings": 28,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 1.9,
+    "department": "English",
+    "name": "Khaled Mattawa",
+    "num_ratings": 22,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 1.4,
+    "avg_rating": 4.7,
+    "department": "Writing",
+    "name": "Shelley Manis",
+    "num_ratings": 14,
+    "would_take_again_percent": 90.9091
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 2,
+    "department": "Public Health",
+    "name": "Michael Hayashi",
+    "num_ratings": 2,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 4.3,
+    "avg_rating": 3.1,
+    "department": "Mathematics",
+    "name": "Jeff Dunworth",
+    "num_ratings": 81,
+    "would_take_again_percent": 49.3827
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4.7,
+    "department": "Chinese",
+    "name": "Qian Liu",
+    "num_ratings": 21,
+    "would_take_again_percent": 93.3333
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.2,
+    "department": "Social Work",
+    "name": "Tammie Glenn",
+    "num_ratings": 17,
+    "would_take_again_percent": 88.8889
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3.5,
+    "department": "History",
+    "name": "Kin-Yee Ian Shin",
+    "num_ratings": 17,
+    "would_take_again_percent": 64.7059
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4.1,
+    "department": "Near Eastern Studies",
+    "name": "Mohammad Alhawary",
+    "num_ratings": 14,
+    "would_take_again_percent": 71.4286
+  },
+  {
+    "avg_difficulty": 1,
+    "avg_rating": 5,
+    "department": "Music",
+    "name": "Richard Frey",
+    "num_ratings": 6,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.6,
+    "department": "Organizational Studies",
+    "name": "Jeremy Levine",
+    "num_ratings": 5,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 2.7,
+    "department": "Communication Studies",
+    "name": "John Ryan",
+    "num_ratings": 3,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.4,
+    "department": "Cognitive Science",
+    "name": "Sehkar Chandra Sripada",
+    "num_ratings": 18,
+    "would_take_again_percent": 90
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.9,
+    "department": "Nursing",
+    "name": "Akshay Sharma",
+    "num_ratings": 16,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 3.5,
+    "department": "Information Science",
+    "name": "James Rampton",
+    "num_ratings": 4,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4,
+    "department": "Nursing",
+    "name": "Lynda Pence",
+    "num_ratings": 1,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 3.3,
+    "department": "Sociology",
+    "name": "Silvia Pedraza",
+    "num_ratings": 45,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 3.1,
+    "department": "Art",
+    "name": "Phoebe Gloeckner",
+    "num_ratings": 22,
+    "would_take_again_percent": 37.5
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.6,
+    "department": "Mathematics",
+    "name": "Stephen Pietromonaco",
+    "num_ratings": 8,
+    "would_take_again_percent": 87.5
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 4,
+    "department": "Art",
+    "name": "Audrey Bennett",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.5,
+    "department": "French",
+    "name": "George Hoffmann",
+    "num_ratings": 41,
+    "would_take_again_percent": 85.7143
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 2.3,
+    "department": "Astronomy",
+    "name": "Elena Gallo",
+    "num_ratings": 23,
+    "would_take_again_percent": 26.6667
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 2,
+    "department": "Entrepreneurship",
+    "name": "Erik (richard) Gordon",
+    "num_ratings": 17,
+    "would_take_again_percent": 10
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.3,
+    "department": "Nursing",
+    "name": "Jessica Marsack",
+    "num_ratings": 8,
+    "would_take_again_percent": 87.5
+  },
+  {
+    "avg_difficulty": 1.4,
+    "avg_rating": 5,
+    "department": "American Studies",
+    "name": "CaVar Reid",
+    "num_ratings": 8,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 3.5,
+    "department": "Fine Arts",
+    "name": "Emily Staugaitis",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 3,
+    "department": "Languages",
+    "name": "Akiko Imamura",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 5,
+    "avg_rating": 1,
+    "department": "Computer Science",
+    "name": "Ryan Huang",
+    "num_ratings": 2,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.1,
+    "department": "Political Science",
+    "name": "Iain Osgood",
+    "num_ratings": 19,
+    "would_take_again_percent": 72.2222
+  },
+  {
+    "avg_difficulty": 4.7,
+    "avg_rating": 1,
+    "department": "Art",
+    "name": "Laura Napier",
+    "num_ratings": 7,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 2.4,
+    "department": "Chemistry",
+    "name": "Chathuri Pathirage",
+    "num_ratings": 5,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.6,
+    "department": "Sociology",
+    "name": "Sandra Levitsky",
+    "num_ratings": 76,
+    "would_take_again_percent": 90
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 4.3,
+    "department": "Electrical Engineering & Computer Science",
+    "name": "Emily Graetz",
+    "num_ratings": 61,
+    "would_take_again_percent": 80.3279
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 3.4,
+    "department": "Statistics",
+    "name": "Moulinath Banerjee",
+    "num_ratings": 36,
+    "would_take_again_percent": 65.5172
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 2,
+    "department": "Materials Engineering",
+    "name": "Steven Yalisove",
+    "num_ratings": 30,
+    "would_take_again_percent": 14.2857
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 3.9,
+    "department": "Mathematics",
+    "name": "Philip Arathoon",
+    "num_ratings": 22,
+    "would_take_again_percent": 77.2727
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 1.9,
+    "department": "Art",
+    "name": "Joyce Brienza",
+    "num_ratings": 15,
+    "would_take_again_percent": 27.2727
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.2,
+    "department": "Art History",
+    "name": "Nachiket Chanchani",
+    "num_ratings": 13,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 1.6,
+    "department": "Business Economics",
+    "name": "Scott Masten",
+    "num_ratings": 10,
+    "would_take_again_percent": 10
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 4.8,
+    "department": "Arabic",
+    "name": "Tara Beebani",
+    "num_ratings": 8,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.6,
+    "department": "Residential College",
+    "name": "Dominique Butler-Borruat",
+    "num_ratings": 36,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.6,
+    "department": "History",
+    "name": "Jeffrey Veidlinger",
+    "num_ratings": 35,
+    "would_take_again_percent": 92.8571
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 4.9,
+    "department": "Creative Writing",
+    "name": "Laura Kasischke",
+    "num_ratings": 27,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 4.1,
+    "department": "Mechanical Engineering",
+    "name": "Albert Shih",
+    "num_ratings": 14,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.9,
+    "department": "English",
+    "name": "Ittai Orr",
+    "num_ratings": 13,
+    "would_take_again_percent": 69.2308
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4.8,
+    "department": "English",
+    "name": "Laura Aull",
+    "num_ratings": 11,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 4.9,
+    "department": "Art",
+    "name": "Sally Clegg",
+    "num_ratings": 7,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 3.7,
+    "department": "French",
+    "name": "Marie Stoll",
+    "num_ratings": 6,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 1,
+    "department": "English",
+    "name": "Sara Tewelde",
+    "num_ratings": 1,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 4.9,
+    "department": "Electrical Engineering & Computer Science",
+    "name": "Austin Yarger",
+    "num_ratings": 15,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.8,
+    "avg_rating": 1.5,
+    "department": "Engineering",
+    "name": "Shai Revzen",
+    "num_ratings": 11,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.4,
+    "department": "Philosophy",
+    "name": "Sarah Buss",
+    "num_ratings": 28,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3.1,
+    "department": "African-American Studies",
+    "name": "Omolade Adunbi",
+    "num_ratings": 24,
+    "would_take_again_percent": 31.25
+  },
+  {
+    "avg_difficulty": 1.7,
+    "avg_rating": 4.8,
+    "department": "Spanish",
+    "name": "Lorenzo García-Amaya",
+    "num_ratings": 11,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.4,
+    "department": "Spanish",
+    "name": "Gareth Williams",
+    "num_ratings": 11,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 5,
+    "avg_rating": 1,
+    "department": "Engineering",
+    "name": "Samet Oymak",
+    "num_ratings": 1,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.2,
+    "department": "Chemistry",
+    "name": "Pavel Nagorny",
+    "num_ratings": 44,
+    "would_take_again_percent": 69.2308
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3.9,
+    "department": "Chemistry",
+    "name": "Jessica Mirrielees",
+    "num_ratings": 26,
+    "would_take_again_percent": 80.7692
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 4.8,
+    "department": "Aerospace Studies",
+    "name": "Krzysztof Fidkowski",
+    "num_ratings": 24,
+    "would_take_again_percent": 90
+  },
+  {
+    "avg_difficulty": 1.5,
+    "avg_rating": 4.3,
+    "department": "Geology",
+    "name": "Jenna Munson",
+    "num_ratings": 12,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 3.5,
+    "department": "Aerospace Studies",
+    "name": "Oliver Jia-Richards",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Business",
+    "name": "Joline Uichanco",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.5,
+    "department": "Biology",
+    "name": "James Casey Jr.",
+    "num_ratings": 47,
+    "would_take_again_percent": 61.7021
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 2,
+    "department": "Nursing",
+    "name": "Luis Parra",
+    "num_ratings": 11,
+    "would_take_again_percent": 9.0909
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.6,
+    "department": "Anthropology",
+    "name": "Yasmin Moll",
+    "num_ratings": 9,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.2,
+    "avg_rating": 4.1,
+    "department": "Architecture",
+    "name": "Yojairo Lomeli",
+    "num_ratings": 9,
+    "would_take_again_percent": 77.7778
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4.3,
+    "department": "Business Administration",
+    "name": "Ekaterina Astashkina",
+    "num_ratings": 6,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.3,
+    "department": "Chemistry",
+    "name": "Ageeth Bol",
+    "num_ratings": 3,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.1,
+    "department": "Astronomy",
+    "name": "Mario Mateo",
+    "num_ratings": 61,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 4.6,
+    "avg_rating": 2.8,
+    "department": "Statistics",
+    "name": "Yuekai Sun",
+    "num_ratings": 37,
+    "would_take_again_percent": 32.4324
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 3.2,
+    "department": "Mathematics",
+    "name": "Angela Kubena",
+    "num_ratings": 16,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3.9,
+    "department": "Economics",
+    "name": "Asenka Asenova",
+    "num_ratings": 48,
+    "would_take_again_percent": 68.0851
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 2.7,
+    "department": "Ecology & Evolutionary Biology",
+    "name": "Regina Baucom",
+    "num_ratings": 27,
+    "would_take_again_percent": 47.0588
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 4.1,
+    "department": "Biomedical",
+    "name": "Carlos Aguilar",
+    "num_ratings": 19,
+    "would_take_again_percent": 78.9474
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.1,
+    "department": "Computer Science",
+    "name": "Rada Mihalcea",
+    "num_ratings": 13,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4,
+    "department": "Greek",
+    "name": "Artemis Leontis",
+    "num_ratings": 23,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 2.7,
+    "department": "Geology",
+    "name": "Larry Ruff",
+    "num_ratings": 74,
+    "would_take_again_percent": 52.381
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 3.7,
+    "department": "Film",
+    "name": "Sarah Murray",
+    "num_ratings": 10,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4,
+    "department": "Film",
+    "name": "Markus Nornes",
+    "num_ratings": 3,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 5,
+    "department": "Languages",
+    "name": "Stephanie Beatty",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 3.4,
+    "department": "Public Health",
+    "name": "Marisa Eisenberg",
+    "num_ratings": 7,
+    "would_take_again_percent": 85.7143
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Political Science",
+    "name": "Deborah Beim",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.1,
+    "avg_rating": 3.6,
+    "department": "Accounting",
+    "name": "Emily Drogt",
+    "num_ratings": 15,
+    "would_take_again_percent": 54.5455
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 3.7,
+    "department": "Sociology",
+    "name": "Jaeeun Kim",
+    "num_ratings": 7,
+    "would_take_again_percent": 71.4286
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 2.3,
+    "department": "Civil Engineering",
+    "name": "Estefan Garcia",
+    "num_ratings": 4,
+    "would_take_again_percent": 25
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4.4,
+    "department": "Judaic Studies",
+    "name": "Rebecca Wollenberg",
+    "num_ratings": 5,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 4.5,
+    "avg_rating": 2.5,
+    "department": "Architecture",
+    "name": "Charlie O'Geen",
+    "num_ratings": 2,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 3.9,
+    "department": "Biology",
+    "name": "Diane Spillane",
+    "num_ratings": 33,
+    "would_take_again_percent": 70
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 3.8,
+    "department": "Spanish",
+    "name": "Allison Riccardi",
+    "num_ratings": 18,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 4,
+    "department": "Mechanical Engineering",
+    "name": "Solomon Adera",
+    "num_ratings": 21,
+    "would_take_again_percent": 76.1905
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 4.9,
+    "department": "MolecularCellularDev Biology",
+    "name": "Anthony Vecchiarelli",
+    "num_ratings": 14,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 3.5,
+    "department": "Mathematics",
+    "name": "Yeqin Liu",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 3.3,
+    "department": "African-American Studies",
+    "name": "Stephen Ward",
+    "num_ratings": 23,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.1,
+    "department": "Business",
+    "name": "Amy Angell",
+    "num_ratings": 16,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 2.9,
+    "department": "Electrical Engineering",
+    "name": "Mark Ackerman",
+    "num_ratings": 27,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 4.1,
+    "department": "Geology",
+    "name": "Jefferson Yarce",
+    "num_ratings": 9,
+    "would_take_again_percent": 77.7778
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.1,
+    "department": "Computer Science",
+    "name": "Jason Mars",
+    "num_ratings": 9,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 4.5,
+    "avg_rating": 3.1,
+    "department": "Engineering",
+    "name": "Melissa Wrobel",
+    "num_ratings": 8,
+    "would_take_again_percent": 62.5
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 3,
+    "department": "Music",
+    "name": "Edward Sarath",
+    "num_ratings": 7,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 5,
+    "department": "Computer Science",
+    "name": "Nicole Wein",
+    "num_ratings": 6,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 2,
+    "department": "History",
+    "name": "William Holden",
+    "num_ratings": 4,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.7,
+    "department": "Organizational Studies",
+    "name": "Steven Samford",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4,
+    "department": "Asian Studies",
+    "name": "Arvind Mandair",
+    "num_ratings": 29,
+    "would_take_again_percent": 68.75
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.1,
+    "department": "Art",
+    "name": "Jessica Frelinghuysen",
+    "num_ratings": 20,
+    "would_take_again_percent": 31.25
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4.3,
+    "department": "Art",
+    "name": "Ali Shapiro",
+    "num_ratings": 16,
+    "would_take_again_percent": 77.7778
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.2,
+    "department": "Aerospace Studies",
+    "name": "Tim Smith",
+    "num_ratings": 15,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.3,
+    "department": "Music",
+    "name": "John Knoedler",
+    "num_ratings": 6,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 3.5,
+    "department": "French",
+    "name": "Gwyneth Foster",
+    "num_ratings": 26,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 3.8,
+    "department": "Engineering",
+    "name": "Robin Fowler",
+    "num_ratings": 15,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3.9,
+    "department": "Engineering",
+    "name": "Jeremy Semrau",
+    "num_ratings": 14,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4,
+    "department": "Civil Engineering",
+    "name": "Brian Ellis",
+    "num_ratings": 9,
+    "would_take_again_percent": 85.7143
+  },
+  {
+    "avg_difficulty": 4.4,
+    "avg_rating": 2.9,
+    "department": "Civil Engineering",
+    "name": "Lutgarde Raskin",
+    "num_ratings": 7,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4.5,
+    "department": "Civil Engineering",
+    "name": "Valeriy Ivanov",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 5,
+    "avg_rating": 1,
+    "department": "Mathematics",
+    "name": "Zachary Deiman",
+    "num_ratings": 2,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 4.2,
+    "avg_rating": 2.5,
+    "department": "Physics",
+    "name": "Jens-Christian Meiners",
+    "num_ratings": 37,
+    "would_take_again_percent": 34.375
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.2,
+    "department": "Film",
+    "name": "Giorgio Bertellini",
+    "num_ratings": 12,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 4,
+    "department": "Social Work",
+    "name": "Karen  Staller",
+    "num_ratings": 8,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.4,
+    "department": "Mechanical Engineering",
+    "name": "Jesse Capecelatro",
+    "num_ratings": 8,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.3,
+    "department": "Social Work",
+    "name": "Sue Savas",
+    "num_ratings": 6,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 2.2,
+    "department": "Linguistics",
+    "name": "Eric Rosen",
+    "num_ratings": 5,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 2.4,
+    "department": "Social Work",
+    "name": "Robert Ortega",
+    "num_ratings": 4,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4.8,
+    "department": "Computer Science",
+    "name": "Toafu Discord",
+    "num_ratings": 16,
+    "would_take_again_percent": 93.3333
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 5,
+    "department": "Spanish",
+    "name": "Tony Hessenthaler",
+    "num_ratings": 40,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 5,
+    "department": "French",
+    "name": "Mandeta Gjata",
+    "num_ratings": 9,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.2,
+    "department": "Accounting",
+    "name": "Cathy Shakespeare",
+    "num_ratings": 7,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.2,
+    "department": "Political Science",
+    "name": "Ishan Joshi",
+    "num_ratings": 98,
+    "would_take_again_percent": 78.3505
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 2.6,
+    "department": "Biology",
+    "name": "Mohammed Akaaboune",
+    "num_ratings": 38,
+    "would_take_again_percent": 37.5
+  },
+  {
+    "avg_difficulty": 4.5,
+    "avg_rating": 2,
+    "department": "Mathematics",
+    "name": "Amy Shell-Gellasch",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 2.5,
+    "department": "Mathematics",
+    "name": "Michael Mueller",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 4.2,
+    "department": "Earth Science",
+    "name": "Adam Simon",
+    "num_ratings": 43,
+    "would_take_again_percent": 68
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 4.1,
+    "department": "History",
+    "name": "Matthew Lassiter",
+    "num_ratings": 67,
+    "would_take_again_percent": 93.3333
+  },
+  {
+    "avg_difficulty": 4.1,
+    "avg_rating": 2.4,
+    "department": "Chemistry",
+    "name": "Paul Zimmerman",
+    "num_ratings": 11,
+    "would_take_again_percent": 22.2222
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 5,
+    "department": "Mathematics",
+    "name": "Aaron Pixton",
+    "num_ratings": 51,
+    "would_take_again_percent": 92.1569
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 4.9,
+    "department": "Physics",
+    "name": "Henriette Elvang",
+    "num_ratings": 18,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1.3,
+    "avg_rating": 5,
+    "department": "English",
+    "name": "Meagan Bardolph",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 3.9,
+    "department": "English",
+    "name": "Mariya Zilberman",
+    "num_ratings": 14,
+    "would_take_again_percent": 71.4286
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 1,
+    "department": "Social Work",
+    "name": "Nasreen Meah",
+    "num_ratings": 1,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 4.6,
+    "department": "Mathematics",
+    "name": "Ruian Chen",
+    "num_ratings": 5,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.5,
+    "department": "Statistics",
+    "name": "Long Nguyen",
+    "num_ratings": 2,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 3.6,
+    "department": "Psychology",
+    "name": "Gideon Rothschild",
+    "num_ratings": 26,
+    "would_take_again_percent": 69.2308
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4.3,
+    "department": "Art",
+    "name": "Mark Tucker",
+    "num_ratings": 20,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.3,
+    "department": "Chemical Engineering",
+    "name": "Andrew Tadd",
+    "num_ratings": 8,
+    "would_take_again_percent": 87.5
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 1.5,
+    "department": "Music",
+    "name": "Charles Lwanga",
+    "num_ratings": 2,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4.7,
+    "department": "Electrical Engineering & Computer Science",
+    "name": "Leqi Zhu",
+    "num_ratings": 17,
+    "would_take_again_percent": 88.2353
+  },
+  {
+    "avg_difficulty": 1.8,
+    "avg_rating": 2.6,
+    "department": "Ecology & Evolutionary Biology",
+    "name": "Lacey Knowles",
+    "num_ratings": 5,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4,
+    "department": "Accounting",
+    "name": "Heidi Packard",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 5,
+    "department": "Ecology & Evolutionary Biology",
+    "name": "Jacob Allgeier",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.7,
+    "department": "Comparative Literature",
+    "name": "Benjamin Paloff",
+    "num_ratings": 31,
+    "would_take_again_percent": 90.9091
+  },
+  {
+    "avg_difficulty": 1.7,
+    "avg_rating": 3,
+    "department": "Information Science",
+    "name": "Michael Nebeling",
+    "num_ratings": 6,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 3.2,
+    "department": "Information Science",
+    "name": "Vadim Besprozvany",
+    "num_ratings": 49,
+    "would_take_again_percent": 57.1429
+  },
+  {
+    "avg_difficulty": 1.9,
+    "avg_rating": 4.7,
+    "department": "German",
+    "name": "Catherine Marquardt",
+    "num_ratings": 29,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1.7,
+    "avg_rating": 4.5,
+    "department": "German",
+    "name": "Annemarie Toebosch",
+    "num_ratings": 24,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.2,
+    "department": "History",
+    "name": "John Carson",
+    "num_ratings": 23,
+    "would_take_again_percent": 42.8571
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 4.8,
+    "department": "Literature",
+    "name": "Gregg Crane",
+    "num_ratings": 11,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4,
+    "department": "Mechanical Engineering",
+    "name": "Krishna Garikipati",
+    "num_ratings": 18,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 3.6,
+    "department": "American Studies",
+    "name": "Anthony Mora",
+    "num_ratings": 29,
+    "would_take_again_percent": 92.3077
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 5,
+    "department": "English",
+    "name": "Hannah Bredar",
+    "num_ratings": 4,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 4.1,
+    "avg_rating": 1.9,
+    "department": "Statistics",
+    "name": "Ben Hansen",
+    "num_ratings": 38,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 3.1,
+    "department": "Mechanical Engineering",
+    "name": "Michael Thouless",
+    "num_ratings": 31,
+    "would_take_again_percent": 25
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 2.6,
+    "department": "Statistics",
+    "name": "Johann Gagnon-Bartsch",
+    "num_ratings": 19,
+    "would_take_again_percent": 31.5789
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 4.6,
+    "department": "Mechanical Engineering",
+    "name": "Jon Estrada",
+    "num_ratings": 17,
+    "would_take_again_percent": 88.2353
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.8,
+    "department": "Comprehensive Studies",
+    "name": "Ricky Fountain",
+    "num_ratings": 13,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 5,
+    "department": "Public Health",
+    "name": "Jonathan Zelner",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.7,
+    "department": "Spanish",
+    "name": "Rashmi Rama",
+    "num_ratings": 37,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4.6,
+    "department": "English",
+    "name": "James Pinto",
+    "num_ratings": 38,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 3.3,
+    "department": "Communication Studies",
+    "name": "Josh Pasek",
+    "num_ratings": 19,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 3.5,
+    "department": "Architecture",
+    "name": "Malcolm McCullough",
+    "num_ratings": 10,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4,
+    "department": "Spanish",
+    "name": "Audrey Hansen",
+    "num_ratings": 4,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 3.2,
+    "department": "Industrial Engineering",
+    "name": "Debra Levantrosser",
+    "num_ratings": 20,
+    "would_take_again_percent": 46.6667
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 3.7,
+    "department": "Engineering",
+    "name": "Lisa Grimble",
+    "num_ratings": 10,
+    "would_take_again_percent": 62.5
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 2.4,
+    "department": "Earth Science",
+    "name": "Monica Carvalho",
+    "num_ratings": 8,
+    "would_take_again_percent": 37.5
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 3.9,
+    "department": "Chemistry",
+    "name": "Brian Coppola",
+    "num_ratings": 263,
+    "would_take_again_percent": 70.3297
+  },
+  {
+    "avg_difficulty": 4.3,
+    "avg_rating": 1.6,
+    "department": "Electrical & Comp. Engineering",
+    "name": "Zhongming Liu",
+    "num_ratings": 8,
+    "would_take_again_percent": 12.5
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 2.3,
+    "department": "Art",
+    "name": "Erin McKenna",
+    "num_ratings": 4,
+    "would_take_again_percent": 25
+  },
+  {
+    "avg_difficulty": 1,
+    "avg_rating": 5,
+    "department": "Engineering",
+    "name": "Aleksandra Szczuka",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.5,
+    "department": "Psychology",
+    "name": "Patricia Reuter-Lorenz",
+    "num_ratings": 43,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 1.7,
+    "avg_rating": 5,
+    "department": "Mathematics",
+    "name": "Mark Conger",
+    "num_ratings": 25,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 5,
+    "avg_rating": 5,
+    "department": "Mathematics",
+    "name": "Wijit Yangjit",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 3.6,
+    "department": "Biology",
+    "name": "John Vandermeer",
+    "num_ratings": 67,
+    "would_take_again_percent": 70
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 3.9,
+    "department": "Accounting",
+    "name": "Debra Krolick",
+    "num_ratings": 21,
+    "would_take_again_percent": 61.9048
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 2.9,
+    "department": "Economics",
+    "name": "Dmitry Stolyarov",
+    "num_ratings": 16,
+    "would_take_again_percent": 25
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 2.8,
+    "department": "Business",
+    "name": "John Tropman",
+    "num_ratings": 14,
+    "would_take_again_percent": 55.5556
+  },
+  {
+    "avg_difficulty": 5,
+    "avg_rating": 1.5,
+    "department": "Mathematics",
+    "name": "zach himes",
+    "num_ratings": 2,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 2.6,
+    "department": "Ecology & Evolutionary Biology",
+    "name": "Laura Eidietis",
+    "num_ratings": 34,
+    "would_take_again_percent": 26.6667
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.8,
+    "department": "Asian Studies",
+    "name": "Qiuli Zhao",
+    "num_ratings": 20,
+    "would_take_again_percent": 92.8571
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.4,
+    "department": "Ecology & Evolutionary Biology",
+    "name": "George Kling",
+    "num_ratings": 13,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.8,
+    "department": "Spanish",
+    "name": "Paula Oliva-Fiori",
+    "num_ratings": 12,
+    "would_take_again_percent": 91.6667
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 2.6,
+    "department": "Mathematics",
+    "name": "Paul Mammen",
+    "num_ratings": 5,
+    "would_take_again_percent": 20
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 3.4,
+    "department": "Kinesiology",
+    "name": "Jay Basten",
+    "num_ratings": 47,
+    "would_take_again_percent": 81.25
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 2.7,
+    "department": "Art",
+    "name": "Patricia Beals",
+    "num_ratings": 23,
+    "would_take_again_percent": 36.8421
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 2,
+    "department": "Women's Studies",
+    "name": "Heather Vinson",
+    "num_ratings": 16,
+    "would_take_again_percent": 18.75
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 1.9,
+    "department": "Kinesiology",
+    "name": "Kara Palmer",
+    "num_ratings": 4,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Computer Science",
+    "name": "Euiwoong Lee",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 0,
+    "avg_rating": 0,
+    "department": "Pharmacy",
+    "name": "Manjunath Pai",
+    "num_ratings": 0,
+    "would_take_again_percent": -1
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4.2,
+    "department": "Biology",
+    "name": "Matthew Chapman",
+    "num_ratings": 82,
+    "would_take_again_percent": 95.5556
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 3.8,
+    "department": "Biology",
+    "name": "Gyorgyi Csankovszki",
+    "num_ratings": 67,
+    "would_take_again_percent": 92.5926
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 3.2,
+    "department": "Psychology",
+    "name": "Robin Edelstein",
+    "num_ratings": 39,
+    "would_take_again_percent": 59.2593
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4.8,
+    "department": "English Language & Literature",
+    "name": "Dana Nichols",
+    "num_ratings": 35,
+    "would_take_again_percent": 95.4545
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 3.7,
+    "department": "Psychology",
+    "name": "Ben Dantzer",
+    "num_ratings": 31,
+    "would_take_again_percent": 61.2903
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3.6,
+    "department": "Political Science",
+    "name": "Mark Tessler",
+    "num_ratings": 23,
+    "would_take_again_percent": 65
+  },
+  {
+    "avg_difficulty": 4.1,
+    "avg_rating": 1.8,
+    "department": "Engineering",
+    "name": "Jack Fishstrom",
+    "num_ratings": 16,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 1.7,
+    "avg_rating": 3.7,
+    "department": "History",
+    "name": "Raevin Jiminez",
+    "num_ratings": 3,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 1.7,
+    "avg_rating": 4,
+    "department": "Anthropology",
+    "name": "Thomas Chivens",
+    "num_ratings": 118,
+    "would_take_again_percent": 86.2745
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 1.8,
+    "department": "Music",
+    "name": "Kenneth Kiesler",
+    "num_ratings": 17,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 2.8,
+    "department": "English",
+    "name": "Claudia Creed",
+    "num_ratings": 5,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.4,
+    "department": "African-American Studies",
+    "name": "Saraellen Strongman",
+    "num_ratings": 5,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 3.9,
+    "department": "Classics",
+    "name": "David Potter",
+    "num_ratings": 55,
+    "would_take_again_percent": 44.4444
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 4.7,
+    "department": "English",
+    "name": "John Whittier-Ferguson",
+    "num_ratings": 42,
+    "would_take_again_percent": 62.5
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 3.8,
+    "department": "Mechanical Engineering",
+    "name": "James Barber",
+    "num_ratings": 39,
+    "would_take_again_percent": 57.1429
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 3.4,
+    "department": "Statistics",
+    "name": "Yixin Wang",
+    "num_ratings": 31,
+    "would_take_again_percent": 45.1613
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.4,
+    "department": "Environmental Science",
+    "name": "Virginia Murphy",
+    "num_ratings": 29,
+    "would_take_again_percent": 62.5
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4,
+    "department": "Philosophy",
+    "name": "Eric Swanson",
+    "num_ratings": 27,
+    "would_take_again_percent": 82.3529
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 3.8,
+    "department": "Geology",
+    "name": "Youxue Zhang",
+    "num_ratings": 24,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 4.7,
+    "department": "Asian Studies",
+    "name": "Youngju Ryu",
+    "num_ratings": 14,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 4.4,
+    "department": "German",
+    "name": "Megan Ewing",
+    "num_ratings": 7,
+    "would_take_again_percent": 85.7143
+  },
+  {
+    "avg_difficulty": 4.3,
+    "avg_rating": 1.7,
+    "department": "Asian Studies",
+    "name": "Retika Adhikari",
+    "num_ratings": 6,
+    "would_take_again_percent": 16.6667
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 5,
+    "department": "Business",
+    "name": "Jean-Paul Baldwin",
+    "num_ratings": 5,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4.8,
+    "department": "Theater",
+    "name": "Audrey Becker",
+    "num_ratings": 4,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 5,
+    "department": "Business Administration",
+    "name": "Loren Townes",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4,
+    "department": "Languages",
+    "name": "Herbert Eagle",
+    "num_ratings": 62,
+    "would_take_again_percent": 64
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 3,
+    "department": "Nursing",
+    "name": "Jeanne Stuckey",
+    "num_ratings": 48,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3.7,
+    "department": "Psychology",
+    "name": "Thore Bergman",
+    "num_ratings": 20,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 3.7,
+    "department": "Earth Science",
+    "name": "Naomi Levin",
+    "num_ratings": 13,
+    "would_take_again_percent": 61.5385
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 4.3,
+    "department": "Writing",
+    "name": "Naomi Silver",
+    "num_ratings": 11,
+    "would_take_again_percent": 85.7143
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 1.6,
+    "department": "Electrical Engineering",
+    "name": "Mohammed Islam",
+    "num_ratings": 10,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Marketing",
+    "name": "Fred Feinberg",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 2.7,
+    "department": "Industrial Engineering",
+    "name": "Paul Green",
+    "num_ratings": 30,
+    "would_take_again_percent": 29.4118
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 4.3,
+    "department": "Spanish",
+    "name": "Jennifer Rivas-Murillo",
+    "num_ratings": 25,
+    "would_take_again_percent": 86.6667
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 2.3,
+    "department": "Electrical Engineering",
+    "name": "Rajesh Rao Nadakuditi",
+    "num_ratings": 19,
+    "would_take_again_percent": 29.4118
+  },
+  {
+    "avg_difficulty": 1.8,
+    "avg_rating": 3.8,
+    "department": "American Studies",
+    "name": "Alice Mishkin",
+    "num_ratings": 6,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 3.8,
+    "department": "Biochemistry",
+    "name": "Markos Koutmos",
+    "num_ratings": 6,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 1.8,
+    "avg_rating": 5,
+    "department": "Near Eastern Studies",
+    "name": "Jessie DeGrado",
+    "num_ratings": 5,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.3,
+    "department": "Public Policy",
+    "name": "Natasha Pilkauskas",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Accounting",
+    "name": "Samuel Anderson",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4,
+    "department": "Chemistry",
+    "name": "Daniel Brandes",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 3.9,
+    "department": "Political Science",
+    "name": "George Tyler",
+    "num_ratings": 22,
+    "would_take_again_percent": 85.7143
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 4.1,
+    "department": "Mathematics",
+    "name": "Emilee Cardin",
+    "num_ratings": 8,
+    "would_take_again_percent": 87.5
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 4.9,
+    "department": "Statistics",
+    "name": "Colin Fogarty",
+    "num_ratings": 8,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4,
+    "department": "Anthropology",
+    "name": "Stacy Rosenbaum",
+    "num_ratings": 16,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 4.9,
+    "department": "Mathematics",
+    "name": "Benjamin Gould",
+    "num_ratings": 8,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1.9,
+    "avg_rating": 4.4,
+    "department": "Spanish",
+    "name": "Michela Russo",
+    "num_ratings": 7,
+    "would_take_again_percent": 85.7143
+  },
+  {
+    "avg_difficulty": 4,
+    "avg_rating": 2.5,
+    "department": "Mathematics",
+    "name": "Abigail Finlay",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1.5,
+    "avg_rating": 5,
+    "department": "English",
+    "name": "Holly Nelson",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1,
+    "avg_rating": 5,
+    "department": "Electrical Engineering",
+    "name": "Peter Seiler",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.6,
+    "department": "Electrical Engineering & Computer Science",
+    "name": "John Kloosterman",
+    "num_ratings": 38,
+    "would_take_again_percent": 94.7368
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.5,
+    "department": "Anthropology",
+    "name": "Erik Mueggler",
+    "num_ratings": 25,
+    "would_take_again_percent": 42.8571
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 4.7,
+    "department": "Computer Science",
+    "name": "Christopher Peikert",
+    "num_ratings": 13,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 4.4,
+    "department": "Physics",
+    "name": "Tom Schwarz",
+    "num_ratings": 26,
+    "would_take_again_percent": 86.9565
+  },
+  {
+    "avg_difficulty": 1.7,
+    "avg_rating": 4.5,
+    "department": "Medicine",
+    "name": "Powel Kazanjian",
+    "num_ratings": 10,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Environment",
+    "name": "Fime de la Fuente",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1.9,
+    "avg_rating": 3.9,
+    "department": "Industrial Engineering",
+    "name": "Larry Seiford",
+    "num_ratings": 8,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.8,
+    "department": "Arabic",
+    "name": "Rula Alhindi",
+    "num_ratings": 6,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 5,
+    "department": "American Studies",
+    "name": "Sarah  Azmeh",
+    "num_ratings": 4,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.1,
+    "avg_rating": 4.2,
+    "department": "Linguistics",
+    "name": "Andries Coetzee",
+    "num_ratings": 55,
+    "would_take_again_percent": 88.8889
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.1,
+    "department": "Women's Studies",
+    "name": "Charlotte Karem Albrecht",
+    "num_ratings": 14,
+    "would_take_again_percent": 84.6154
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 2.4,
+    "department": "African-American Studies",
+    "name": "Ronald Woods",
+    "num_ratings": 10,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.5,
+    "department": "Mathematics",
+    "name": "Giorgio Young",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Civil Engineering",
+    "name": "Rachel O'Brien",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 5,
+    "department": "Industrial Engineering",
+    "name": "Prakash Sathe",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 1.8,
+    "department": "Art",
+    "name": "Jill Greene",
+    "num_ratings": 36,
+    "would_take_again_percent": 12
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 2.9,
+    "department": "Mechanical Engineering",
+    "name": "Kenneth Shorter",
+    "num_ratings": 10,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 3.8,
+    "department": "Public Policy",
+    "name": "Charlotte Cavailleacute",
+    "num_ratings": 6,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "History",
+    "name": "Mark Schantz",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 3.9,
+    "department": "Computer Science",
+    "name": "Jenna Wiens",
+    "num_ratings": 34,
+    "would_take_again_percent": 62.5
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.4,
+    "department": "African-American Studies",
+    "name": "Lydia Kelow-Bennett",
+    "num_ratings": 10,
+    "would_take_again_percent": 90
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 1,
+    "department": "Mathematics",
+    "name": "Qianyu Chen",
+    "num_ratings": 4,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 1.9,
+    "avg_rating": 4.9,
+    "department": "Biblical Studies",
+    "name": "Terry Wilfong",
+    "num_ratings": 8,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 4.3,
+    "avg_rating": 2.6,
+    "department": "Biology",
+    "name": "Ursula Jakob",
+    "num_ratings": 46,
+    "would_take_again_percent": 25
+  },
+  {
+    "avg_difficulty": 2.8,
+    "avg_rating": 4.3,
+    "department": "Asian Studies",
+    "name": "S.E. Kile",
+    "num_ratings": 21,
+    "would_take_again_percent": 94.4444
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 2.3,
+    "department": "Biophysics",
+    "name": "Sarah Veatch",
+    "num_ratings": 14,
+    "would_take_again_percent": 20
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.8,
+    "department": "Nursing",
+    "name": "Susan Wintermeyer Pingel",
+    "num_ratings": 5,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 5,
+    "department": "Theater",
+    "name": "Christianne Myers",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.7,
+    "department": "Business",
+    "name": "Ted London",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 3,
+    "department": "Engineering",
+    "name": "Theodore Dacko",
+    "num_ratings": 1,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 4.5,
+    "department": "Spanish",
+    "name": "Ron Roosevelt",
+    "num_ratings": 31,
+    "would_take_again_percent": 79.3103
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 4.6,
+    "department": "French",
+    "name": "Mark Burde",
+    "num_ratings": 28,
+    "would_take_again_percent": 93.75
+  },
+  {
+    "avg_difficulty": 4.3,
+    "avg_rating": 4,
+    "department": "Aerospace Studies",
+    "name": "John Shaw",
+    "num_ratings": 19,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.4,
+    "department": "Environmental Studies",
+    "name": "Ivette Perfecto",
+    "num_ratings": 13,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 4.5,
+    "department": "Statistics",
+    "name": "Ambuj Tewari",
+    "num_ratings": 6,
+    "would_take_again_percent": 83.3333
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 3.2,
+    "department": "Anthropology",
+    "name": "Mike McGovern",
+    "num_ratings": 5,
+    "would_take_again_percent": 66.6667
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 4.5,
+    "department": "Chemistry",
+    "name": "John Wolfe",
+    "num_ratings": 147,
+    "would_take_again_percent": 93.8776
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 3.1,
+    "department": "Classical Studies",
+    "name": "Celia Schultz",
+    "num_ratings": 25,
+    "would_take_again_percent": 27.7778
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 2.7,
+    "department": "Electrical Engineering",
+    "name": "Karem Sakallah",
+    "num_ratings": 37,
+    "would_take_again_percent": 20
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 4.2,
+    "department": "Anthropology",
+    "name": "Maureen Devlin",
+    "num_ratings": 24,
+    "would_take_again_percent": 73.6842
+  },
+  {
+    "avg_difficulty": 2.6,
+    "avg_rating": 4.3,
+    "department": "Russian",
+    "name": "Nina Shkolnik",
+    "num_ratings": 18,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 3.8,
+    "department": "Statistics",
+    "name": "Kerby Shedden",
+    "num_ratings": 10,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.6,
+    "department": "Mathematics",
+    "name": "Asaf Cohen",
+    "num_ratings": 9,
+    "would_take_again_percent": 77.7778
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.2,
+    "department": "Industrial Engineering",
+    "name": "Salar Fattahi",
+    "num_ratings": 5,
+    "would_take_again_percent": 80
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 4.5,
+    "department": "Biophysics",
+    "name": "Jordan Horowitz",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1,
+    "avg_rating": 5,
+    "department": "English",
+    "name": "Malia Maxwell",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 4.9,
+    "department": "French",
+    "name": "Alan Ames",
+    "num_ratings": 27,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.8,
+    "avg_rating": 2,
+    "department": "Political Science",
+    "name": "Kenneth  Lowande",
+    "num_ratings": 17,
+    "would_take_again_percent": 17.6471
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 1.7,
+    "department": "American Studies",
+    "name": "Leila Kawar",
+    "num_ratings": 15,
+    "would_take_again_percent": 6.6667
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 3.6,
+    "department": "Engineering",
+    "name": "Katie Snyder",
+    "num_ratings": 5,
+    "would_take_again_percent": 20
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 4.3,
+    "department": "Psychology",
+    "name": "Omar Ahmed",
+    "num_ratings": 4,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4.5,
+    "department": "Mathematics",
+    "name": "Hao Yanlong",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 1.8,
+    "avg_rating": 4.6,
+    "department": "English",
+    "name": "Randall Tessier",
+    "num_ratings": 58,
+    "would_take_again_percent": 88.8889
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 3.6,
+    "department": "Mathematics",
+    "name": "Alejandro Uribe",
+    "num_ratings": 22,
+    "would_take_again_percent": 77.7778
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 2.3,
+    "department": "Women's Studies",
+    "name": "Amal Fadlalla",
+    "num_ratings": 20,
+    "would_take_again_percent": 25
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 4.8,
+    "department": "Ecology & Evolutionary Biology",
+    "name": "Gideon Bradburd",
+    "num_ratings": 5,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 3,
+    "department": "Psychology",
+    "name": "Tracy Juliao",
+    "num_ratings": 4,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 1.3,
+    "avg_rating": 2.3,
+    "department": "Languages",
+    "name": "Theresa Peters",
+    "num_ratings": 4,
+    "would_take_again_percent": 25
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 4.9,
+    "department": "Italian",
+    "name": "Roberto Mosciatti",
+    "num_ratings": 31,
+    "would_take_again_percent": 94.1176
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 3.5,
+    "department": "Philosophy",
+    "name": "Gordon Belot",
+    "num_ratings": 23,
+    "would_take_again_percent": 87.5
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 3.5,
+    "department": "Anthropology",
+    "name": "Bruno Renero-Hannan",
+    "num_ratings": 17,
+    "would_take_again_percent": 52.9412
+  },
+  {
+    "avg_difficulty": 1.9,
+    "avg_rating": 3.7,
+    "department": "Linguistics",
+    "name": "Lisa Levinson",
+    "num_ratings": 15,
+    "would_take_again_percent": 60
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 3.6,
+    "department": "Environmental Science",
+    "name": "Julie Halpert",
+    "num_ratings": 10,
+    "would_take_again_percent": 33.3333
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 2.5,
+    "department": "Economics",
+    "name": "Minseon  Park ",
+    "num_ratings": 4,
+    "would_take_again_percent": 25
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "History",
+    "name": "Brittany Joyce",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 5,
+    "department": "Communication Studies",
+    "name": "Germaine Halegoua",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 3.2,
+    "department": "Anthropology",
+    "name": "David Frye",
+    "num_ratings": 41,
+    "would_take_again_percent": 92.3077
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4.5,
+    "department": "Spanish",
+    "name": "Nancy Perez",
+    "num_ratings": 32,
+    "would_take_again_percent": 94.1176
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 3.2,
+    "department": "Economics",
+    "name": "Ying Fan",
+    "num_ratings": 22,
+    "would_take_again_percent": 28.5714
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.7,
+    "department": "Philosophy",
+    "name": "David Baker",
+    "num_ratings": 21,
+    "would_take_again_percent": 54.5455
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 4.6,
+    "department": "Not Specified",
+    "name": "Margot Finn",
+    "num_ratings": 15,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.5,
+    "department": "Electrical Engineering",
+    "name": "Necmiye Ozay",
+    "num_ratings": 9,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 1.5,
+    "department": "Art",
+    "name": "Xijin Hiraga",
+    "num_ratings": 2,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Mathematics",
+    "name": "Alexander Dobner",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 4.4,
+    "department": "Political Science",
+    "name": "Lisa Disch",
+    "num_ratings": 95,
+    "would_take_again_percent": 92.5373
+  },
+  {
+    "avg_difficulty": 3.6,
+    "avg_rating": 4.2,
+    "department": "Spanish",
+    "name": "Julie  Harrell",
+    "num_ratings": 22,
+    "would_take_again_percent": 72.7273
+  },
+  {
+    "avg_difficulty": 3.5,
+    "avg_rating": 2.7,
+    "department": "Statistics",
+    "name": "Jayashree Ravi",
+    "num_ratings": 15,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 1.9,
+    "avg_rating": 4.5,
+    "department": "Electrical Engineering & Computer Science",
+    "name": "Brandon Nguyen",
+    "num_ratings": 13,
+    "would_take_again_percent": 84.6154
+  },
+  {
+    "avg_difficulty": 3.3,
+    "avg_rating": 1.2,
+    "department": "Biophysics",
+    "name": "Magdalena Ivanova",
+    "num_ratings": 6,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4,
+    "department": "Political Science",
+    "name": "Mika Lavaque-Manty",
+    "num_ratings": 124,
+    "would_take_again_percent": 76.4706
+  },
+  {
+    "avg_difficulty": 3.1,
+    "avg_rating": 3.5,
+    "department": "History",
+    "name": "Valerie Kivelson",
+    "num_ratings": 56,
+    "would_take_again_percent": 52.6316
+  },
+  {
+    "avg_difficulty": 3.4,
+    "avg_rating": 3.2,
+    "department": "Biology",
+    "name": "Diarmaid O'Foighil",
+    "num_ratings": 55,
+    "would_take_again_percent": 50
+  },
+  {
+    "avg_difficulty": 3.2,
+    "avg_rating": 3.8,
+    "department": "Mechanical Engineering",
+    "name": "Claus Borgnakke",
+    "num_ratings": 44,
+    "would_take_again_percent": 57.1429
+  },
+  {
+    "avg_difficulty": 4.3,
+    "avg_rating": 3,
+    "department": "Mechanical Engineering",
+    "name": "Chinedum Okwudire",
+    "num_ratings": 27,
+    "would_take_again_percent": 22.2222
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 4.3,
+    "department": "Aerospace Studies",
+    "name": "Mark Moldwin",
+    "num_ratings": 19,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 3.7,
+    "department": "Art",
+    "name": "William Burgard",
+    "num_ratings": 17,
+    "would_take_again_percent": 64.7059
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 3.9,
+    "department": "Slavic Languages",
+    "name": "Eugene Bondarenko",
+    "num_ratings": 15,
+    "would_take_again_percent": 73.3333
+  },
+  {
+    "avg_difficulty": 3.9,
+    "avg_rating": 4.7,
+    "department": "Mechanical Engineering",
+    "name": "Yue Fan",
+    "num_ratings": 14,
+    "would_take_again_percent": 92.8571
+  },
+  {
+    "avg_difficulty": 2.5,
+    "avg_rating": 3.2,
+    "department": "Art History",
+    "name": "Shelley Perlove",
+    "num_ratings": 11,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 3.7,
+    "avg_rating": 2.3,
+    "department": "Materials Engineering",
+    "name": "Geeta Mehta",
+    "num_ratings": 9,
+    "would_take_again_percent": 40
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 4,
+    "department": "Sociology",
+    "name": "Andrei Boutyline",
+    "num_ratings": 6,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.2,
+    "avg_rating": 1.8,
+    "department": "Nursing",
+    "name": "Patricia Coleman-Burns",
+    "num_ratings": 49,
+    "would_take_again_percent": 15.3846
+  },
+  {
+    "avg_difficulty": 2.4,
+    "avg_rating": 3.4,
+    "department": "American LngCulture Institute",
+    "name": "William Calvo-Quiros",
+    "num_ratings": 15,
+    "would_take_again_percent": 57.1429
+  },
+  {
+    "avg_difficulty": 1.6,
+    "avg_rating": 3.1,
+    "department": "Languages",
+    "name": "Cherry Meyer",
+    "num_ratings": 7,
+    "would_take_again_percent": 57.1429
+  },
+  {
+    "avg_difficulty": 4.3,
+    "avg_rating": 1.1,
+    "department": "Mathematics",
+    "name": "Yevgeniya  Tarasova",
+    "num_ratings": 7,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 2.3,
+    "avg_rating": 4.5,
+    "department": "Asian Studies",
+    "name": "Sangseraima Ujeed",
+    "num_ratings": 4,
+    "would_take_again_percent": 75
+  },
+  {
+    "avg_difficulty": 2.7,
+    "avg_rating": 5,
+    "department": "Materials Engineering",
+    "name": "Claudia Loebel",
+    "num_ratings": 3,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Public Health",
+    "name": "Carrie Karvonen-Gutierrez",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 5,
+    "department": "Near Eastern Studies",
+    "name": "Cameron Cross",
+    "num_ratings": 2,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2,
+    "avg_rating": 5,
+    "department": "History",
+    "name": "David Tamayo",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 2,
+    "department": "Computer Science",
+    "name": "Scott Dexter",
+    "num_ratings": 1,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 1,
+    "department": "Theater",
+    "name": "Jess Fialko",
+    "num_ratings": 1,
+    "would_take_again_percent": 0
+  },
+  {
+    "avg_difficulty": 3,
+    "avg_rating": 5,
+    "department": "Biostatistics",
+    "name": "Stephen Guest",
+    "num_ratings": 1,
+    "would_take_again_percent": 100
+  },
+  {
+    "avg_difficulty": 2.9,
+    "avg_rating": 4.8,
+    "department": "Electrical Engineering & Computer Science",
+    "name": "Jonathan Beaumont",
+    "num_ratings": 36,
+    "would_take_again_percent": 97.2222
+  }
+]

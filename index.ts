@@ -1,9 +1,11 @@
 import { RateMyProfessor } from "rate-my-professor-api-ts";
+import fs from "fs";
+
 
 // accepts only 1 parameter
 // which is the name of the college of interest
 (async function main() {
-    const rmp_instance = new RateMyProfessor("University of Michigan", "Nadiya Fink");
+    const rmp_instance = new RateMyProfessor("University of Michigan");
  
     // one asynchronous method helps retrieve information reagrding college
  
@@ -12,12 +14,14 @@ import { RateMyProfessor } from "rate-my-professor-api-ts";
     // if boolean is set to false, only, the specific college will be returned
     //
 
-    let college_info_all = await rmp_instance.get_college_info(true);
     let list_of_professors = await rmp_instance.get_professor_list();
 
  
-    // uncomment the lines below to see the response
+    fs.writeFileSync(
+        "professors.json",
+        JSON.stringify(list_of_professors, null, 2)  // pretty print JSON with 2-space indentation
+      );
 
-    console.log(college_info_all);
-    console.log(list_of_professors);
+    console.log("list_of_professors saved");
+
  })();
