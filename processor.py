@@ -113,7 +113,7 @@ dept_dict = {
     "physics_profs": physics_profs
 }
 
-# Department average stats
+## Department average stats
 def prof_stats(metric):
     stats = []
     for name, df in dept_dict.items():
@@ -138,15 +138,63 @@ total_ratings = prof_stats('num_ratings')
 total_ratings = total_ratings.sort_values(by='department')
 total_ratings.to_csv("rmp_total_ratings.csv", index=False)
 
-# Profs per dept sample
+# Profs per dept sample sizes
 num_profs = []
 for dept_name, df in dept_dict.items():
     num_profs.append({
         "department": dept_name,
-        "num_professors": df.shape[0]  # number of rows
+        "num_professors": df.shape[0] 
     })
 
 num_profs = pd.DataFrame(num_profs).sort_values(by='department')
 num_profs.to_csv("rmp_num_profs.csv", index=False)
 
-# Language Department analysis
+# Pivot to long format
+df = pd.read_csv("rmp_dept_avgs.csv")
+#df_long = df.melt(
+    #id_vars="department", 
+    #value_vars=["Difficulty", "Rating", "Would Take Again %"],
+    #var_name="metric", 
+    #value_name="value")
+#df_long.to_csv("rmp_dept_avgs.csv", index=False)
+
+
+## Language Department analysis
+arabic = file[file["department"] == "Arabic"]
+chinese = file[file["department"] == "Chinese"]
+french = file[file["department"] == "French"]
+german = file[file["department"] == "German"]
+greek = file[file["department"] == "Greek"]
+hebrew = file[file["department"] == "Hebrew"]
+italian = file[file["department"] == "Italian"]
+japanese = file[file["department"] == "Japanese"]
+korean = file[file["department"] == "Korean"]
+latin = file[file["department"] == "Latin"]
+portuguese = file[file["department"] == "Portuguese"]
+russian = file[file["department"] == "Russian"]
+spanish = file[file["department"] == "Spanish"]
+
+# Only keep depts with >= 5 profs
+language_depts = {
+    "french": french,
+    "german": german,
+    "italian": italian,
+    "spanish": spanish
+}
+
+def lang_profs_all_metrics(metrics):
+    stats = {}
+
+    for name, df in language_depts.items():
+        stats[name] = {"department": name} 
+        for metric in metrics:
+            stats[name][metric] = df[metric].mean()
+
+    return pd.DataFrame(stats.values())
+
+metrics = ['avg_rating', 'avg_difficulty', 'would_take_again_percent']
+lang_df = lang_profs_all_metrics(metrics)
+lang_df = lang_df.sort_values(by='department')
+lang_df.to_csv("rmp_language_summary.csv", index=False)
+
+print(eecs_profs)
